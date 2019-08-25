@@ -7,7 +7,7 @@
 
 ## 1. Introduction to the course and to each other
 <div class="alert alert-success">
-I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019survey">bit.ly/cdm2019survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
+I'd like to know more about you! Head on over to <a href="https://bit.ly/cdm2019survey">bit.ly/cdm2019survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
 </div>
 
 When you've done that (or after about 5 minutes), please:
@@ -54,11 +54,11 @@ One of the tasks for homework will be to post a brief introduction to yourself o
 
 * **Before you leave**, please:
  1. submit the info form and letter
- 2. take the [grading contract](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
+ 2. take the [grading contract](/{{site.course.base_url}}uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
 * **For next time**:
  1. **Read** [syllabus and grading contract](/{{site.course.base_url}}uploads), and either initial-and-sign it, or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
  2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
  3. **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
- 4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
+ 4. **Respond** to the [Tech Comfort Survey](https://bit.ly/cdm2019survey) if you haven't done so in class
  5. **Join** [GitHub](https://github.com/) if you haven't yet, and
  6. **post** a brief introduction to yourself on [the issue queue](https://github.com/pitt-cdm/miller2019spring/issues/1). Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should receive a copy at whichever email address you used on the form.

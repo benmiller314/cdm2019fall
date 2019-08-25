@@ -11,9 +11,9 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Syllabus-related materials
 
-* [Grading contract](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
-* [Syllabus, all except grading contract](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-syllabus-except-grading-contract.docx)
-* [Ben's welcome letter from first day](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/first-day-letter.md)
+* [Grading contract](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
+* [Syllabus, all except grading contract](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-syllabus-except-grading-contract.docx)
+* [Ben's welcome letter from first day](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/first-day-letter.md)
 
 ## Other handouts
 (coming soon)

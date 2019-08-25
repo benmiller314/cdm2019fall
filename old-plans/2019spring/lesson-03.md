@@ -127,12 +127,13 @@ Armed with that primer, let's do one more thing at the command line before you g
 </div>
 
 # HW for next time:
-
+<!-- move this first part to follow lesson 4? -->
 * **Read** the following advice on sound recording, **listening to the embedded clips**:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (Note the time skips she recommends: sometimes a long clip is embedded, but not meant to be listened to in full.)
 
 * **Listen** to the following recordings made by students in response to a similar prompt:
+<!-- update next time with examples from this class where possible -->
   - Cestare, Jessica. "Soundscape - The Dark Side of The Cat in the Hat." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/176](http://dmap.pitt.edu/node/176). Accessed 15 Jan. 2019.
   - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177). Accessed 15 Jan. 2019.
   - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). Accessed 15 Jan. 2019.

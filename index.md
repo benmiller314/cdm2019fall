@@ -11,6 +11,6 @@ This course requires students to compose digital media while exploring the rheto
     <li role="navigation"><a class="list-group-item" href="resources" title="useful links">Resources</a></li>
     <li role="navigation"><a class="list-group-item" href="office" title="one-on-one is most hands-on">Office Hours</a></li>
     <li role="navigation"><a class="list-group-item" href="uploads" title="files and handouts">Uploads</a></li>
-    <li role="navigation"><a class="list-group-item" href="https://github.com/pitt-cdm/miller2019spring/issues" title="discuss readings, post responses">Forum</a></li>
+    <li role="navigation"><a class="list-group-item" href="https://github.com/benmiller314/cdm2019fall/issues" title="discuss readings, post responses">Forum</a></li>
   </ul>
 </nav>

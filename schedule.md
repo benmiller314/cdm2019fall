@@ -136,8 +136,8 @@ For next time:
 <h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.repository_url}}/issues">the issue queue</a>
 
-<div class="alert alert-warning">
-**No class** Tuesday, 10/1: Rosh Hashanah
+<div class="alert alert-danger">
+<strong>No class</strong> Tuesday, 10/1: Rosh Hashanah
 </div>
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
@@ -268,8 +268,8 @@ For next time:
 
 * Keep documenting your progress with screenshots, commit messages, and/or reflective notes
 
-<div class="alert alert-warning">
-No class Tuesday 11/26 or Thursday 11/28: Happy Thanksgiving!
+<div class="alert alert-danger">
+<strong>No class</strong> Tuesday 11/26 or Thursday 11/28: Happy Thanksgiving!
 </div>
 
 

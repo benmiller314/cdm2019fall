@@ -159,7 +159,7 @@ For next time:
 * **Write** a blog post with more ideas toward weeks 12-13 (collaborative creative unit)
 * **Bring** headphones
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-15">Lesson 15, Thursday 10/17</a> – Studio ()</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-15">Lesson 15, Thursday 10/17</a> – Studio</h3>
 
 For next time:
 

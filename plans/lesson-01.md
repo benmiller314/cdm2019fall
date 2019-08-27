@@ -1,3 +1,8 @@
+---
+layout: bottomnav
+---
+
+
 # Introductions
 **Texts to have read:** the course description
 
@@ -13,7 +18,7 @@ I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019s
 
 When you've done that (or after about 5 minutes), please:
 
-1. Take out a piece of paper and fold it in thirds. In the middle, write your name in letters large enough to see across the room.
+1. Take out a piece of paper and fold it in thirds. In the middle, **write your name** in letters large enough to see across the room. Add your preferred pronouns, too, please.
 2. On the top, make a short list of sounds that you associate with being "at home" (whatever that means to you today).
 3. On the bottom, jot down at least one digital tool, or app, or website, that more people should know about.
 4. Set up your name on your desk when you're done, so I can (try to) see (around these monitors) when we're all ready.
@@ -23,7 +28,7 @@ EXT: If you've done all that and you're waiting, pick one item on each list to w
 <details>
   <summary>Wait for it</summary>
 
-  <em>Yup, it's introduction time!</em> Let's share these around the room, as a way of meeting and greeting each other – and picking up some digital suggestions along the way. (Later, I'll ask you to post your recommendations as part of your first contribution to our class discussion forum.)
+  <em>Yup, it's introduction time!</em> Let's share these around the room, as a way of meeting and greeting each other – and picking up some digital suggestions along the way. (Later, I'll ask you to post your recommendations as part of your first contribution to our class discussion forum.) Just one item from each list should do the trick.
 </details>
 
 ## 2. A letter from Ben

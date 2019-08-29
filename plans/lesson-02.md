@@ -53,26 +53,16 @@ Let's quickly walk through what it looks like:
 <strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
 </div>
 
-<!-- TO DO: Add a screenshot here. Or several? -->
-
 <!--
-# Introduction to GitHub using a basic text file
-
-In this demo, we're going to...
-
-1. Create a new file, and look at how it's displayed
-2. Edit it, and talk about commit messages
-3. View the file's history and talk about diffs
+1. Create a new .txt file.
+2. Demo the importance of the extension by previewing what happens if it's .md?
+3. Commit the new file directly to master.
+4. Change the text.
+5. Create a new branch, then merge it. Why, you ask?
+   It matters when you're working with others: you want to make sure you're comparing
+   against the most up-to-date version, so you don't accidentally erase something new.
+   This will become important in a minute.
 -->
-
-<!--
-My plan:
-
-* use https://www.poets.org/poetsorg/poem/just-say as the text for the file
-* demo that linebreaks go away, but we can fix them
-* have people suggest some swaps, make the edits
--->
-
 
 ### 4. Five Principles as Lenses
 
@@ -88,6 +78,9 @@ Head to
 <strong><a href="https://github.com/pitt-cdm/digital-affordances">https://github.com/pitt-cdm/digital-affordances</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, anchors!)
 
 Then follow the instructions in the README file.
+<!-- FOR NEXT TIME: make a clean copy of the pitt-cdm repo to fork (e.g. make it a template);
+then, as an EXT for when they're done making their individual files,
+have them file a pull request back to the original. -->
 </div>
 
 We'll work for 10-15 minutes, then report back.

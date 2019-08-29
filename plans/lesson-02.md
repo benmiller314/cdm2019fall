@@ -1,3 +1,8 @@
+---
+layout: bottomnav
+---
+
+
 # What Can We Do With Digital?
 **Texts to have read:**
 

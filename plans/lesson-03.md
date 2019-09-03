@@ -217,8 +217,9 @@ Armed with that primer, let's do one more thing at the command line before you g
 <!-- update next time with examples from this class where possible -->
   - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
   - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
-  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178).
   - Johnson, Beth. "Hello." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/249](http://dmap.pitt.edu/node/249).
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178).
+
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
   - [Breaking Bad](/{{site.course.base_path}}assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.

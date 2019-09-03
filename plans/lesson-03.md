@@ -6,7 +6,7 @@
 
 **Work to have achieved:**
 
-* Download and install what you need [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+* Download and install what you need to use Git: at [the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03) and, optionally, using the [Desktop app](https://desktop.github.com)
 
 ## Plan for the day
 
@@ -14,28 +14,28 @@
 <!-- EXT. Versioning beyond simple text files -->
 2. First project: Soundscape Narrative (20 min)
 3. What Git does better than GitHub (5 min)
-4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
+4. Multiple views of the same files
 5. A little command line setup for Soundscape Narrative
 6. HW Preview
 
 
-# 1. GitHub for Poets review (25 min)
+## 1. GitHub for Poets review (25 min)
 
 <div class="alert alert-success">
-<strong>Take 5 minutes or so to write on your own</strong>, from memory, about the videos you watched over the weekend: what stands out? what do you take away? what are you left wondering?
+<strong>Take 5 minutes or so to write on your own</strong>, from memory, about the video(s) you watched over the weekend: what stands out? what do you take away? what are you left wondering?
 </div>
 
-<div class="alert alert-success">
+<div class="alert alert-info">
 
-<strong>In pairs, compare your impressions.</strong> Help each other with your questions; be ready to share remaining questions or big takeaways. Spend another 5-8 minutes here.
-
-<em>EXT: How well do you think GitHub can track Word files? Try it on one of your own repositories and see what happens if you upload two different versions of the same file.</em>
-
+Next, <strong>in pairs, compare your impressions.</strong> Help each other with your questions; be ready to share remaining questions or big takeaways. Spend another 5-8 minutes here.
 </div>
+
+<em>EXT: What do you think are the limitations of the GitHub interface? What are some things you might want to do with Git that you haven't yet seen? Conversely, what do you think GitHub, as a website, might do better than Git?</em>
+
 
 Okay, so **back to full-class discussion.** What stands out?
 
-# 2. First project: Soundscape Narrative (20 min)
+## 2. First project: Soundscape Narrative (20 min)
 
 As I explained in the syllabus, your first project is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you:
 
@@ -47,7 +47,7 @@ with particular attention to its ability to communicate
   - *narrative pacing and change*.
 
 <div class="alert alert-success">
-To read the full assignment – and make a copy for yourself – go to <strong><a href="https://classroom.github.com/a/9O5NEFUj">https://classroom.github.com/a/9O5NEFUj</a></strong>.
+To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/soundscape-prompt">https://github.com/benmiller314/soundscape-prompt</a></strong>.
 </div>
 
 Let's read through this together.
@@ -56,7 +56,7 @@ Let's read through this together.
 Go through overview, constraints, deadlines. The sections below are prep for the "setup" section.
 -->
 
-# 3. What Git does better than GitHub
+## 3a. What Git does better than GitHub
 
 As you'll have learned from the videos, GitHub is a (mostly web-based) file-sharing and project-management platform built on top of Git – the version control system that runs mostly on text commands. GitHub's pretty, well, pretty.
 
@@ -64,20 +64,106 @@ As you'll have learned from the videos, GitHub is a (mostly web-based) file-shar
 Let's pause for a moment: <strong>Why would we ever want to use Git outside of GitHub?</strong>
 </div>
 
-<!--
-Super-technical people may have many more reasons than I want to get into. For today, let's focus on a few quick victories:
 
-* Git lets us "stage" multiple files at once and wrap them in a single commit.
-* Git lets us keep track of small changes locally before we're ready to share them with the world – and then to push multiple commits all at once.
-* Using the command line lets us access and activate more features of Git than the GitHub defaults allow.
+<details>
+<summary>Super-technical people may have many more reasons than I want to get into. For today, let's focus on a few quick victories... </summary>
 
-We're going to practice this now.
--->
 
-Okay, with that settled, it's time to [*clone* the repository you just created](https://help.github.com/articles/cloning-a-repository/): that is, let's download it and make sure we're still tracking it with the same Git commit history.
+<ul>
+<li>Git lets us "stage" multiple files at once and wrap them in a single commit.</li>
+<li>Git lets us keep track of small changes locally before we're ready to share them with the world – and then to "push" multiple commits all at once.</li>
+<li>Using the command line lets us access and activate more features of Git than the GitHub defaults allow.</li>
+</ul>
 
-Then, let's make two changes in the same commit: rename the README.md file to ASSIGNMENT.md, and create a new README.md file that describes, in your own words, what you think you might make in this space. (Don't worry, you can always change it later.)
+These will all be important for using Audacity, which we'll demonstrate next time.
+</details>
 
+All of that depends on getting your files from GitHub onto your own computer, while still keeping them linked and tracked.
+
+Which means it's now time to **[*clone* the repository you just created](https://help.github.com/articles/cloning-a-repository/)**: that is, let's download it and make sure we're still tracking it with the same Git commit history.
+
+![github clone or download button](../assets/img/github-clone-or-download.png)
+
+There are three ways...
+
+![github clone or download button, open](../assets/img/github-clone-or-download-2.png)
+
+
+* download zip
+* command line: `git clone %clone_url%`
+* open in desktop
+
+## 4. Multiple Views of the Same Files
+
+Where did the files go when you cloned them? You could use Windows Explorer or Mac Finder to open the folder...
+
+... but how to do commits there? How to see file history?
+
+Enter the **command line**, a.k.a. Terminal (on Mac) or GitBash (on Windows).
+
+<div class="alert alert-warning">
+Not sure how to open a command line? Try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
+</div>
+
+Much as a repository is just another name for a file folder you're tracking, the command line is just another way of seeing the files you're used to seeing in windows. (Lowercase 'w.')
+
+<div class="alert alert-info">
+Change something in one view, and it changes in the other. Because it's really the same place.
+</div>
+
+### Moving around at the command line
+
+To get where you're going:
+```bash
+cd path/to/your/folder    # change directory
+pwd               # print working directory (i.e. where am I?)
+ls                # list directory contents
+cd ..             # go up one directory level
+cd ~              # go to home folder
+```
+
+To clone a remote repository (i.e. a project on GitHub): grab the URL from that download button and use it instead of the %remote_url% in this command:
+```bash
+git clone %remote_url%
+```
+(Note that you'll then need to `cd` into the directory that creates.)
+
+To see what git is tracking:
+```bash
+git status
+```
+
+Basic git workflow:
+```bash
+git status           
+git pull             # download changes from GitHub
+git status           # start of loop
+# here you make changes to your files
+git add %filename%   # optionally repeat
+git status
+git commit -m "your headline commit message - note the quotes" -m "your optional extra details, if you want them, just go in a second message."
+                     # repeat loop as desired
+git push             # publish your changes
+```
+
+<!-- Ben quickly demos -->
+
+### Yet another view
+
+Alternately, if you've downloaded [https://desktop.github.com](GitHub Desktop), you can use a visual interface to accomplish all of those local commands. And it'll also generously prompt you to push changes when you've finished committing them.
+
+<!-- Ben quickly demos -->
+
+(NB: If you haven't tried GH Desktop in a few years, it's vastly improved since then.)
+
+## 3b. Back to making use of Git outside of GitHub
+
+With all that settled, let's finally take advantage of Git outside of GitHub, and **make two changes in the same commit:**
+
+1. rename the README.md file to ASSIGNMENT.md, and
+2. create a new README.md file that describes, in your own words, what you think you might make in this space. (Don't worry, you can always change it later.)
+
+EXT: If you're already good with all this – e.g. if you've used Git before – please help others who are stuck.
 
 # 4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
 
@@ -127,11 +213,6 @@ Armed with that primer, let's do one more thing at the command line before you g
 </div>
 
 # HW for next time:
-<!-- move this first part to follow lesson 4? -->
-* **Read** the following advice on sound recording, **listening to the embedded clips**:
-  - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
-  - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (Note the time skips she recommends: sometimes a long clip is embedded, but not meant to be listened to in full.)
-
 * **Listen** to the following recordings made by students in response to a similar prompt:
 <!-- update next time with examples from this class where possible -->
   - Cestare, Jessica. "Soundscape - The Dark Side of The Cat in the Hat." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/176](http://dmap.pitt.edu/node/176). Accessed 15 Jan. 2019.
@@ -144,3 +225,7 @@ Armed with that primer, let's do one more thing at the command line before you g
   - [Battlestar Galactica](/{{site.course.base_path}}assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes.
 
 * **Write** a short blog post [on the issue queue](https://github.com/pitt-cdm/miller2019spring/issues/3): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
+
+* _Optional:_ This will be part of the homework for next weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
+  - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
+  - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)

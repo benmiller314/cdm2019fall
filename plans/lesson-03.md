@@ -99,11 +99,11 @@ There are three ways...
 
 ## 4. Multiple Views of the Same Files
 
-Where did the files go when you cloned them? You could use Windows Explorer or Mac Finder to open the folder...
+Where do the files go when you clone them? You could use Windows Explorer or Mac Finder to open the folder...
 
 ... but how to do commits there? How to see file history?
 
-Enter the **command line**, a.k.a. Terminal (on Mac) or GitBash (on Windows).
+Enter the **command line**, a.k.a. _Terminal_ on Mac, or _GitBash_ (or _PowerShell_) on Windows.
 
 <div class="alert alert-warning">
 Not sure how to open a command line? Try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
@@ -162,12 +162,18 @@ Alternately, if you've downloaded [https://desktop.github.com](GitHub Desktop), 
 
 ## 3b. Back to making use of Git outside of GitHub
 
-With all that settled, let's finally take advantage of Git outside of GitHub, and **make two changes in the same commit:**
+<div class="alert alert-success">
+With all that settled, let's finally take advantage of Git outside of GitHub, and <strong>make two changes in the same commit:</strong>
 
-1. rename the README.md file to ASSIGNMENT.md, and
-2. create a new README.md file that describes, in your own words, what you think you might make in this space. (Don't worry, you can always change it later.)
+<ol>
+<li>rename the README.md file to ASSIGNMENT.md, and</li>
+<li>create a new README.md file that describes, in your own words, what you think you might make in this space. (Don't worry, you can always change it later.)</li>
+</ol>
+Then <em>push</em> your changes so they appear on GitHub.
+</div>
 
-EXT: If you're already good with all this – e.g. if you've used Git before – please help others who are stuck.
+EXT: If you're already good with all this – e.g. if you've used Git before – please help others who are catching up.
+
 
 # 4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
 

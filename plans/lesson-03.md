@@ -213,17 +213,20 @@ git push             # publish your changes
 Armed with that primer, let's do one more thing at the command line before you go out and start recording and editing soundscapes.
 
 <div class="alert alert-success">
-<a href="https://github.com/pitt-cdm/soundscape-prompt#setup" class="alert-link">Head back into the assignment prompt, and scroll down to Setup.</a>
+<a href="https://github.com/pitt-cdm/soundscape-prompt#setup" class="alert-link">Head back into the assignment prompt, and scroll down to Setup.</a> Follow the instructions there.
 </div>
 
 # HW for next time:
+* **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
+   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
+* **Bring** headphones – we should have time to practice using it!
+
 * **Listen** to the following recordings made by students in response to a similar prompt:
 <!-- update next time with examples from this class where possible -->
   - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
   - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
   - Johnson, Beth. "Hello." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/249](http://dmap.pitt.edu/node/249).
   - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178).
-
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
   - [Breaking Bad](/{{site.course.base_path}}assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.

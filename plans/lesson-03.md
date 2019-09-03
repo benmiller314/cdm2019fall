@@ -215,16 +215,16 @@ Armed with that primer, let's do one more thing at the command line before you g
 # HW for next time:
 * **Listen** to the following recordings made by students in response to a similar prompt:
 <!-- update next time with examples from this class where possible -->
-  - Cestare, Jessica. "Soundscape - The Dark Side of The Cat in the Hat." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/176](http://dmap.pitt.edu/node/176). Accessed 15 Jan. 2019.
-  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177). Accessed 15 Jan. 2019.
-  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). Accessed 15 Jan. 2019.
-  - White, Zach. "Soundscape - Expanded Space." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/195](http://dmap.pitt.edu/node/195). Accessed 15 Jan. 2019.
+  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
+  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178).
+  - Johnson, Beth. "Hello." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/249](http://dmap.pitt.edu/node/249).
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
   - [Breaking Bad](/{{site.course.base_path}}assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.
   - [Battlestar Galactica](/{{site.course.base_path}}assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes.
 
-* **Write** a short blog post [on the issue queue](https://github.com/pitt-cdm/miller2019spring/issues/3): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
+* **Write** a short blog post [on the issue queue]({{site.github.repository_url}}/issues/2): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
 
 * _Optional:_ This will be part of the homework for next weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).

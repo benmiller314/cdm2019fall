@@ -82,11 +82,15 @@ All of that depends on getting your files from GitHub onto your own computer, wh
 
 Which means it's now time to **[*clone* the repository you just created](https://help.github.com/articles/cloning-a-repository/)**: that is, let's download it and make sure we're still tracking it with the same Git commit history.
 
-![github clone or download button](../assets/img/github-clone-or-download.png)
+<figure>
+<img alt="github clone or download button" src="../assets/img/github-clone-or-download.png" title="The clone button is just above the list of files, on the right."
+</figure>
 
 There are three ways...
 
-![github clone or download button, open](../assets/img/github-clone-or-download-2.png)
+<figure>
+<img alt="github clone or download button, open" src="../assets/img/github-clone-or-download-2.png" />
+</figure>
 
 
 * download zip

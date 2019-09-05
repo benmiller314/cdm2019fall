@@ -22,9 +22,23 @@ layout: bottomnav
 
 
 ## 1. Sound and Space (10-15 min)
-_notes from forum posts will go here in the morning_
+<!--_notes from forum posts will go here in the morning_
 
 <!-- Be sure to talk about layers within the clips: how might you group the sounds you heard? -->
+
+* some axes of consideration:<!-- NB: these are not meant to line up -->
+   - centering human voices vs. limiting human voices
+   - horror/darkness vs. humor/lightness
+   - familiar/common vs. unexpected/unique
+   - repeating/looping vs. don't-look-back
+   - solo perspective vs. interaction
+
+
+* [cjc162 noted](https://github.com/benmiller314/cdm2019fall/issues/2#issuecomment-528185721) the importance of background sounds:
+> The register noise informs the listener that a transaction is taking place. The background chatter illustrates that the conversation is in a public place. The background music gives the sense that the setting is more relaxed and laid back. The various sound effects and background noises in the different pieces allows me to clearly paint a picture in my head and create an image to go along with the audio, rather than just processing the audio only.
+
+One thing I'd like us to think about throughout this unit is the different layers of sound: how we might imagine grouping individual sounds, under what labels, and how those groups might interact.
+
 
 ## 2. Audacity Demo (10 min)
 

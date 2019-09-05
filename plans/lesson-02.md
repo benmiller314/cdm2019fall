@@ -89,6 +89,7 @@ We'll work for 10-15 minutes, then report back.
 
 * **Watch** Git and GitHub for Poets, starting at least with
 [the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
+<!-- FOR NEXT TIME: have them write something on GH, commit, edit it, commit, and view the history. You know, *do* the thing in the video! -->
 * **Download** software you'll need, as outlined in the [syllabus](/{{site.course.base_url}}uploads)
  - [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) or GitBash (on Windows)
 * *Optional:* If you're feeling intimidated by the command line, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)

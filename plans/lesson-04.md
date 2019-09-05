@@ -25,14 +25,15 @@ layout: bottomnav
 <!--_notes from forum posts will go here in the morning_
 
 <!-- Be sure to talk about layers within the clips: how might you group the sounds you heard? -->
-
-* some axes of consideration:<!-- NB: these are not meant to line up -->
-   - centering human voices vs. limiting human voices
-   - horror/darkness vs. humor/lightness
-   - familiar/common vs. unexpected/unique
-   - repeating/looping vs. don't-look-back
-   - solo perspective vs. interaction
-
+<div class="alert alert-white">
+some axes of consideration:<!-- NB: these are not meant to line up -->
+<ul>
+   <li> centering human voices vs. limiting human voices</li>
+   <li> horror/darkness vs. humor/lightness</li>
+   <li> familiar/common vs. unexpected/unique</li>
+   <li> repeating/looping vs. don't-look-back</li>
+   <li> solo perspective vs. interaction</li>
+</ul>
 
 * [cjc162 noted](https://github.com/benmiller314/cdm2019fall/issues/2#issuecomment-528185721) the importance of background sounds:
 > The register noise informs the listener that a transaction is taking place. The background chatter illustrates that the conversation is in a public place. The background music gives the sense that the setting is more relaxed and laid back. The various sound effects and background noises in the different pieces allows me to clearly paint a picture in my head and create an image to go along with the audio, rather than just processing the audio only.

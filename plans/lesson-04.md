@@ -15,10 +15,10 @@ layout: bottomnav
 
 1. Sound and space (10-15 min)
 2. Audacity Demo (10 min)
-3. Audacity Play Time (20-25 min)
+3. Audacity Play Time (20-25 min) <!-- needs at least 30 -->
 4. Share and Enjoy (10 min)
 5. HW Preview (5 min)
-6. Offline sketching (10 min)
+6. Offline sketching (10 min) <!-- we ended up having only 5. 10 would, yes, be better -->
 
 
 ## 1. Sound and Space (10-15 min)

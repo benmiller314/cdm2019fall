@@ -66,7 +66,7 @@ For next time:
 For next time:
 
 * **Read** *Writer/Designer* excerpt (scanned file)
-* **Read** Stanford’s Fair Use overview;
+* **Read** Stanford’s Fair Use overview _(optional)_;
 * **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.repository_url}}/issues">the Issues page</a>.
 * **Skim** the audio resources on the site, and read more deeply in anything that seems like it would help you.
 * **Begin** recording the sounds you'll need

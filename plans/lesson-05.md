@@ -54,6 +54,10 @@ I especially want to make sure we're all on the same page about those True/False
 ## 3. Homework preview (5 min)
 
 ## 4. Studio time! (40-45 min)
+<!-- If possible, give feedback to selected students based on posts. Some notes here:
+* If you're presenting the perspective of an inanimate object, consider using a voiceover narrator.
+* If you're doing something where you're not sure what you'll find, consider a journalistic approach: "always roll tape" and narrate what you're doing, then add a post-hoc voiceover that tells the story of what you ultimately found
+-->
 
 Do whatever work you need to get \*something\* toward your project posted to your GitHub repository by Thursday. The goal for now is to get a feel for how you work with audio, not to have a finished product.
 

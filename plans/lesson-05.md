@@ -71,10 +71,11 @@ Call me over if you need help with Audacity or Git/GitHub!
 <li><strong>Push a soundscape preview</strong> to your GitHub repository. As per the assignment prompt, this should include:
   <ul>
   <li> A layered <strong>Audacity project file (.aup)</strong>, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
-  <li> A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress (for comparison later to subsequent drafts).</li>
   <li>The <strong>\_data folder</strong> associated with your Audacity file, which should contain at least two recorded sounds.</li>
+  <li> A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress. (You'll use this in your final reflection, for comparison later to subsequent drafts).</li>
   <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
   <li> An updated <strong>ASSETS.md</strong>, indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li>
+  <li>Finally, I recommend (but will not require) that you <strong>export a playable mp3 file</strong>, just in case something goes awry with your \_data folder.</li>
   </ul>
 </li>
 </ul>

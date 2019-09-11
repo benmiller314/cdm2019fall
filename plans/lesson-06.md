@@ -28,9 +28,9 @@ Shift now in your writing to think about the [blog posts on listening to soundsc
 ## 3. Gathering criteria (45 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.
 
-### 3a. Let's try these groups:
+### 3a. Let's try the groups we used last time:
 <figure>
-<img src="/{{site.course.base_path}}assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
+<img src="/{{site.course.base_path}}assets/img/2019fall-seating-groups.png" alt="Alex, Brittany, Richard, and Weston / Corey, Danielle, Ellie, and Rebecca / Emma M, Jade, and Julianna / Fatema Q, Natasha, Rachel, and Ruhi / Emma K, Fathima S, Kevin, and Nicole">
 </figure>
 
 ### 3b. Crowdsource ideas (10 min)

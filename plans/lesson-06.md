@@ -6,8 +6,7 @@ layout: bottomnav
 
 **Work to have done**:
 
-* Read through and practice the command-line git flow from [Tuesday's lesson](lesson-05): pull, add, commit, push
-* Work on your soundscapes, and push a _[soundscape preview](https://github.com/pitt-cdm/soundscape-prompt)_ to GitHub: .aup file, data folder, screenshot, and text description, plus updated list of assets. mp3 optional but encouraged.
+* Work on your soundscapes, and push a _[soundscape preview](https://github.com/benmiller314/soundscape-prompt-2019fall)_ to GitHub: .aup file, data folder, screenshot, and text description, plus updated list of assets. mp3 optional but encouraged.
 
 **Plan for the Day**:
 1. Reflective writing (5 min)

@@ -1,3 +1,8 @@
+---
+layout: bottomnav
+---
+
+
 # Sound studio
 
 **Work to have done**:

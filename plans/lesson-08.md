@@ -41,7 +41,7 @@ If you're working off of a script, as a number of you seem to be, please do cons
 <details>
 <summary><em>Consider citation.</em></summary>
 
-If you're using sounds someone else recorded, be sure to include enough information to recover where it came from. (See <em>Writer/Designer</em> page 162.) Note that any kind of CC-BY license requires you to say who made the source, not just say that it has a CC-BY license. (Nor is it enough to give a link to the search engine that you found it with.) You can add the information in text alongside the soundscape, or in the soundscape itself, or both!
+If you're using sounds someone else recorded, be sure to include enough information to recover where it came from. (See <em>Writer/Designer</em> page 162, and the <a href="https://creativecommons.org/use-remix/get-permission/">Creative Commons' own recommendations</a>.) Note that any kind of CC-BY license requires you to say who made the source, not just say that it has a CC-BY license. (Nor is it enough to give a link to the search engine that you found it with.) You can add the information in text alongside the soundscape, or in the soundscape itself, or both!
 </details>
 
 ## Okay, now go to!

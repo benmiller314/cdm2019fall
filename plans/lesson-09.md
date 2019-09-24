@@ -7,7 +7,7 @@ layout: bottomnav
 **Work to have achieved**:
 
 * A final-for-now version of your soundscape narratives
-* Write and [post](site.github.repository_url}}/issues/3) reflection on same
+* Write and [post]({{site.github.repository_url}}/issues/3) reflection on same
 
 
 **Plan for the day**:

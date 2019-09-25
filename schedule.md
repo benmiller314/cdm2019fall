@@ -123,7 +123,7 @@ For next time:
 For next time:
 
 * **Read** a quick introduction to graphic design principles
-* **Find** an example of good visual rhetoric
+* **Find** an example of a rhetorical visual design
 * **Write** a blog post about your example, using the analytical language from the reading
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-10">Lesson 10, Thursday 9/26</a> – Intro to GIMP and Visual Design</h3>

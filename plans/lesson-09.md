@@ -63,7 +63,7 @@ Your second project is to **make a rhetorical claim through the juxtaposition of
 2. to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
 
 <div class="alert alert-success">
-To read the full assignment – and make a copy for yourself – go to <strong><a href=https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-2019fall</a></strong>.
+To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-2019fall</a></strong>.
 </div>
 
 Let's read through this together.
@@ -73,7 +73,7 @@ Let's read through this together.
 ## 4. Examples
 
 I've started pinning some examples of the kinds of collages and collisions I have in mind, but don't take this as expressing some absolute sense of range:
-https://www.pinterest.com/benmiller314/visual-argumentexplanation/
+<a href="https://www.pinterest.com/benmiller314/visual-argumentexplanation/">www.pinterest.com/benmiller314/visual-argumentexplanation</a>
 
 
 ### EXT: Google Image's Advanced Search Tools

@@ -39,6 +39,11 @@ A bunch of new terms! Let's try to annotate these – just a few key words each
 ## 2. Using our vocabulary (10-20 min)
 Let's look at some strong examples of design from the forum, to get a better handle on how they're making an argument through visuals.
 
+Possibilities:
+* [Home away from home](https://github.com/benmiller314/cdm2019fall/issues/7#issuecomment-535334494), posted by Kevin
+* [Save water](https://github.com/benmiller314/cdm2019fall/issues/7#issuecomment-535352493), posted by Brittany
+* [Thanksgiving](https://github.com/benmiller314/cdm2019fall/issues/7#issuecomment-535585694), posted by Natasha
+
 For each, ask:
 1. What does this image want us to do or realize?
 2. What arguments is it making?

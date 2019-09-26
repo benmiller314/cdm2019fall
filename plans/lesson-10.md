@@ -73,7 +73,9 @@ Points to hit:
 
 **Option 2:** take the image you found for homework and alter it to get a better understanding of how its parts add up to a greater whole.
 
-# Homework for next time:
+# Homework for next time  :
 
-* fonts
-* GIMP tutorials
+* **Read** about fonts at [https://www.canva.com/learn/font-design/](https://www.canva.com/learn/font-design/).
+   - Optionally, **play** a font-matching game at http://www.typeconnection.com/ to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson (in the reading for today) called hierarchy by "style."
+* **Choose** at least two tutorials from [gimp.org/tutorials](https://gimp.org/tutorials), **and practice** what they teach. For beginners, GIMP Quickies and Simple Floating Logo are probably good places to start; Layer Masks is probably intermediate; and you can get quite advanced as you scroll down the page.
+* **Review** the [resources page]({{/site.course.base_path}}resources), this time with an eye toward visual resources. As before, note that there are sections both for finding images and for getting help thinking visually – and, as before, feel free to suggest additional resources if you have any!

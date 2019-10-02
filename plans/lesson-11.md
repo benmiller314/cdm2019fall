@@ -16,7 +16,7 @@ layout: bottomnav
 2. Share questions and insights (12-15 min)
 3. Loop writing (20 min)
 4. Offline sketching (10 min)
-5. Studio time (20-30 min)
+5. Studio time (15-20 min)
 
 
 ## 1. Gather thoughts (3 min)

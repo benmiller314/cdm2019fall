@@ -132,13 +132,17 @@ For next time:
 
 * **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
-* **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.repository_url}}/issues">the issue queue</a>
-
 <div class="alert alert-danger">
 <strong>No class</strong> Tuesday, 10/1: Rosh Hashanah
 </div>
+
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
+
+For next time:
+
+* **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.repository_url}}/issues">the issue queue</a>
+
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
 

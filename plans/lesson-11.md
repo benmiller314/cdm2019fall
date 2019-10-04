@@ -45,7 +45,7 @@ These lists will remain private, unless you choose to share. I won't ask for the
 1. What ideas do you want help remembering?
 2. Or what do you want to persuade others of?
 3. Is there something you've noticed that you want to bring to the attention of others?
-4. Is there anything else you'd like to add? Something from a course? From an activity or group you participate in? Something you've been reading about?
+4. Is there anything else you'd like to add? Something from a course? From an activity or group you participate in? Something you've been reading about? (If there's an idea you thought of working on before class, be sure to add it now.)
 
 Take a moment now to read back over your lists. Is there something that stands out, that says, _me, pick me_? Choose one thing to work with, at least for today, and mark it in some way. Then copy it into a clean page.
 
@@ -71,9 +71,6 @@ Use the remaining time to work toward a project proposal for your visual argumen
 Once you feel good about that, work toward the project itself. (A preview will be due by next Thursday, when we'll talk about baseline criteria and aspirational goals. Tuesday's class will be dedicated to studio time.)
 
 
-<div style="height:500px; height:50vh;">
-<!-- This div left intentionally blank, for spacing -->
-</div>
 
 ## Homework for next time
 

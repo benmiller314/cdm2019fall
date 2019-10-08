@@ -49,6 +49,9 @@ On Thursday, we'll use that experience to refine our shared baseline criteria an
 
 Call me over if you need help with GIMP or Git/GitHub!
 
+<div class="alert alert-warning">
+Important: <strong>Save your files as you go!</strong>
+</div>
 
 <div style="height:50px; height:10vh;">
 <!-- This div left intentionally blank, for spacing -->

@@ -35,7 +35,7 @@ Take a few minutes to write, with your own proposed visual argument / rhetorical
 ### Timing Reminder / HW Preview
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
 
-Therefore, the rest of today's class is all about working on your individual projects! **Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.** 
+Therefore, the rest of today's class is all about working on your individual projects! **Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.**
 
 I know your lives are busy; take advantage of this dedicated time free from other distractions and obligations to move your piece forward. At the same time, it's worth noting that you're working _in a shared space_, in a studio. If you have questions, or you want feedback on something, you have your classmates and your instructor on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
 
@@ -54,7 +54,13 @@ Call me over if you need help with GIMP or Git/GitHub!
 <!-- This div left intentionally blank, for spacing -->
 </div>
 
-# 3. Homework for next time
+## 3. Quick report back
+
+Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Decide something about your project? Raise a question in a new way that you'd like some help with?
+
+Send me a quick email, or say out loud to share with the whole class.
+
+# 4. Homework for next time
 <div class="alert alert-success">
 Compose a <strong>Visual Rhetoric Preview</strong>: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
 </div>

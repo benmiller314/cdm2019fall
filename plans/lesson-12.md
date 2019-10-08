@@ -35,9 +35,9 @@ Take a few minutes to write, with your own proposed visual argument / rhetorical
 ### Timing Reminder / HW Preview
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
 
-Therefore, the rest of today's class is all about working on your individual projects! Find source images or text, level up on layering, watch relevant tutorials on effects or on layout. I know your lives are busy; take advantage of this dedicated time free from other distractions and obligations to move your piece forward.
+Therefore, the rest of today's class is all about working on your individual projects! **Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.** 
 
-At the same time, it's worth noting that you're working _in a shared space_, in a studio. If you have questions, or you want feedback on something, you have your classmates and your instructor on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
+I know your lives are busy; take advantage of this dedicated time free from other distractions and obligations to move your piece forward. At the same time, it's worth noting that you're working _in a shared space_, in a studio. If you have questions, or you want feedback on something, you have your classmates and your instructor on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
 
 ## 2. Okay, now go to!
 

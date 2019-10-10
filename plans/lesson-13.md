@@ -18,7 +18,7 @@ layout: bottomnav
 <!-- Start with review of GH Desktop for pushing large folders -->
 ## 1. Reflective writing (5 min) <!-- we get here at 2:38 -->
 <div class="alert alert-success">
-In your own space – you won't have to share this unless you want to – do a little writing about your soundscape narrative in progress. What's exciting about it? What's challenging about it? What are you unsure of?
+In your own space – you won't have to share this unless you want to – do a little writing about your visual argument in progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
 
 ## 2. Refresher on visual arguments we've liked (5 min)

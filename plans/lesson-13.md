@@ -33,7 +33,7 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 </figure>
 
 ### 3b. Crowdsource ideas (10 min) <!-- start at ~2:53 -->
-To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/cdm2019fall-criteria](http://bit.ly/cdm2019fall-criteria).**
+To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/cdm2019fall-criteria](https://docs.google.com/document/d/1NcXvQsBNPaumL6h_7ghKLJbQxPe_ALCiFMtPgaQI0Zk/edit#heading=h.r8cu792fqkxb).**
 
 <div class="alert alert-success">
 Take 10 minutes in groups to make some lists: given the <a href="https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?

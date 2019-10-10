@@ -6,7 +6,7 @@ layout: bottomnav
 
 **Work to have done**:
 
-* Work on your visual arguments, and push a _[rhetorical collage preview](https://github.com/benmiller314/soundscape-prompt-2019fall)_ to GitHub: .xcf file, screenshot, and text description, plus updated list of assets/credits. Exported .png or .jpg optional but encouraged.
+* Work on your visual arguments, and push a _[rhetorical collage preview](https://github.com/benmiller314/visual-argument-2019fall#deadlines-and-products)_ to GitHub: .xcf file, screenshot, and text description, plus updated list of assets/credits. Exported .png or .jpg optional but encouraged.
 
 **Plan for the Day**:
 1. Reflective writing (5 min)

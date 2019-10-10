@@ -65,7 +65,7 @@ Send me a quick email, or say out loud to share with the whole class.
 
 # 4. Homework for next time
 <div class="alert alert-success">
-Compose a <strong>Visual Rhetoric Preview</strong>: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
+Compose a <strong>Visual Argument Preview</strong>: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
 </div>
 
 Please turn in:

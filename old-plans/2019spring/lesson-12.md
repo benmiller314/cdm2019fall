@@ -45,7 +45,7 @@ We'll refine as a group, and repeat, and then come back and revise after Tuesday
 <!-- and Ben will give back grading sheets for the soundscapes. Right, Ben? -->
 
 ## For next time:
-* **Work** to bring in a full draft: a solid attempt at a complete soundscape narrative, ideally at the target length. Rough edges are still welcome.
+* **Work** to bring in a full draft: a solid attempt at a complete visual argument, ideally meeting baseline criteria. Rough edges are still welcome.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
   - If you're using Box as your repository, you can "push" to Box by making sure the files are in the shared folder.

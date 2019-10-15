@@ -66,7 +66,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 Let's do this!
 
 <div class="alert alert-success">
-Before you leave your seat, <ol><li>load up your GIMP project, and</li><li>label <strong>three</strong> index cards <em>For: {yourname}</em>.</li>
+Before you leave your seat, <ol><li>load up your GIMP project, and</li><li>label <strong>three</strong> index cards <em>For: {yourname}</em>.</li></ol>
 </div>
 
 Then...

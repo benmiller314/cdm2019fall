@@ -64,10 +64,13 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 ## 3. Peer Review Workshop (3 times 10-12 min)
 
 Let's do this!
+
 <div class="alert alert-success">
 Before you leave your seat, <ol><li>load up your GIMP project, and</li><li>label <strong>three</strong> index cards <em>For: {yourname}</em>.</li>
 </div>
+
 Then...
+
 <div class="alert alert-success">
 Rotate *counter*-clockwise around the monitor-islands. Label <em>one</em> index card <strong>From: {yourname}</strong>. View / read through the project fully at least once, then
 <ol><li><strong>Describe</strong> what you see,</li> <li><strong>Evaluate</strong> where it meets or misses the criteria,</li> and <li><strong>Suggest</strong> ways to meet and exceed the criteria!</li></ol>

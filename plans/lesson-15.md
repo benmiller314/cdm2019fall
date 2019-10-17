@@ -58,10 +58,11 @@ Not sure where a title would go? Think of placards in museums: alongside the ima
 
 <div class="alert alert-warning">
 Don't forget to save periodically as you go:
-<ul>
+ <ul>
    <li>as a project file</li>
    <li>as a git commit, saying what you've just achieved</li>
    <li>as a screenshot</li>
+ </ul>
 </div>
 
 # Homework for next time

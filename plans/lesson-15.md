@@ -65,6 +65,13 @@ Don't forget to save periodically as you go:
  </ul>
 </div>
 
+## Quick report back
+
+Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Decide something about your project? Raise a question in a new way that you'd like some help with?
+
+**Write me a quick email.** Depending on time or interest, maybe a few people can say out loud new insights they think would help others.
+
+
 # Homework for next time
 
 * If you haven't yet done so, please download and install the [Atom text editor](http://atom.io); we'll be using it for our upcoming web design unit.

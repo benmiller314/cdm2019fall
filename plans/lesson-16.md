@@ -119,7 +119,10 @@ Emphasize that this is all _exactly_ the same html.
 ## HW preview
 Note that you can set Atom as your default text editor in GitHub Desktop, making it very easy to browse and edit all of a repo's files. I recommend it!
 
-![GitHub Desktop > preferences > advanced > external editor](/uploads/gh-desktop--set-text-editor.png)
+<figure>
+<img src="{{site.course.base_path}}uploads/gh-desktop--set-text-editor.png" alt="GitHub Desktop > preferences > advanced > external editor" />
+<figcaption>Use the advanced tab in preferences</figcaption>
+</figure>
 
 ## EXT: Start the homework tutorial.
 

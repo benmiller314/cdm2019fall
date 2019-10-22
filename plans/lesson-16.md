@@ -52,7 +52,7 @@ As I explained in the syllabus, your third project is to **build a responsive we
 2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
 
 <div class="alert alert-success">
-To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2019fall#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2019fall</a></strong>.
+To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2019fall#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2019fall</a></strong>.
 </div>
 
 Let's read through this together.

@@ -141,4 +141,4 @@ I expect this will take a bit more than four minutes, because I fully plan to in
 * **Show your work** by pushing your tutorial code to a repository
    - I've already created folders for parts 1-3 in the GH repo you just forked; clone it to your local computer, and you should be able to work in those folders and push.
    - Note that you'll need to add your own folder for part 4, and thereafter.
-* **Bring** headphones for sonic isolation: we'll have studio time next class.
+* **Bring** headphones for sonic isolation, if you want: we'll have some studio time next class.

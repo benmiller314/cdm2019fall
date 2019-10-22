@@ -14,7 +14,7 @@ layout: bottomnav
 
 1. Midterm reflection (5-10 min)
 2. Web-design unit overview and assignment (10 min)
-3. Markup: separating content from display (10-15 min)
+3. Markup: separating content from display (10-15 min) <!-- NOTE FOR NEXT TIME: don't cut CSS in 4 minutes, and maybe even start with it? I ended up with 30 minutes left!! -->
 5. Homework preview
 
 ## Midterm reflection (5-10 min)
@@ -43,7 +43,7 @@ In the letter I wrote for the course syllabus, I asked you to think about "the a
 
 EXT: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
 
-EXT 2: What do you expect the affordances of a website will be? 
+EXT 2: What do you expect the affordances of a website will be?
 
 ## 2. Web-design unit overview and assignment (10 min)
 
@@ -126,7 +126,9 @@ Note that you can set Atom as your default text editor in GitHub Desktop, making
 </figure>
 
 ## EXT: Start the homework tutorial.
+I think the full tutorial's worth reading through, even if you're already familiar with the content (I was, and I still consolidated a lot of my understandings).
 
+But if you're able to breeze through parts 1-4, and still have time left in class, please look through the web-related sections of the class  [Resources]({{site.github.url}}/resources) page, and click through to the documentation for anything that sounds interesting!
 
 <!-- MOVED TO NEXT LESSON
 ## 4. "Web Design in 4 Minutes"... in 15 minutes

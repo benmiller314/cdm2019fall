@@ -1,3 +1,8 @@
+---
+layout: bottomnav
+---
+
+
 # Midterm Reflections and Intro to Markup
 
 **Work to have done**:
@@ -17,12 +22,25 @@
 
 Welcome to the second half of the semester!
 
+Over the weekend, you wrote a reflection on your visual-rhetorical project; now, take a few minutes to write a broader reflection on the semester as a whole.
+
+In the letter I wrote for the course syllabus, I asked you to think about "the affordances of digital media: that is, what’s made possible by working with bits instead of paper, even when we are still working with words? How do the answers change, or shift, as we move beyond words into aural and visual modes?"
+
 <div class="alert alert-success">
-<!-- NOTE FOR NEXT TIME: use this reflection as a chance to think about similarities/differences across the media of sound and visual space. What's afforded differently? What strategies connect the two? -->
-Over the weekend, you wrote a reflection on your visual-rhetorical project; now, take a few minutes to write a broader reflection on the semester as a whole. Given your goals and expectations when you began this class, what have you begun to learn, and what, especially, haven't you begun to learn? <strong>What skills do you want to have practiced before the semester is over?</strong> Can you think of any projects you might compose over the next month or so that would help you get that practice?
+
+
+<p>Please spend some time revisiting these questions, in writing, now that you've digitally crafted both sounds and images into coherent compositions. For example:
+  <ul>
+    <li>What's <em>afforded</em> (i.e. enabled, foregrounded, suggested) differently in these different media?</li>
+    <li>What strategies carry across them?</li>
+    <li>How do they extend or complicate your usual composition strategies in writing?</li>
+  </ul>
+</p>
+<p>If you want, you could also consider how the particular software we used differs from other tools you might have employed toward similar ends: what's facilitated, and what's frustrated, by these tools, and how did that change your approach?
+</p>
 </div>
 
-Take 5-10 minutes. I won't collect these directly, but you will use them to develop your pitch for a collaborative project, and as a snapshot of your progress to look back on in a final reflection for the end of the course.
+**Take 5-10 minutes.** I won't collect these directly, but you will use them to develop your pitch for a collaborative project, and as a snapshot of your progress to look back on in a final reflection for the end of the course.
 
 ## 2. Web-design unit overview and assignment (10 min)
 

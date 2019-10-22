@@ -102,11 +102,15 @@ Table of contents:
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
 
 <dt><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
+<dt><a href="http://getskeleton.com/">Skeleton CSS</a></dt>
 <dt>and <a href="http://cssdb.co/">other CSS libraries</a></dt>
 <dd>
 <p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the <code>&lt;head&gt;</code> element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
 
-<p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">enviably clear documentation</a> for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, uses Flexbox and is therefore now much better at aligning and centering things along both vertical and horizontal axes than was true in the past (and even in the past it was pretty good).</p>
+<p><strong>Bootstrap</strong> is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">enviably clear documentation</a> for specific classes such as banner images, navigation, buttons, and boxes. (It's how I style the background colors for my in-class prompts, for example.) The latest version, Bootstrap 4, uses Flexbox and is therefore now much better at aligning and centering things along both vertical and horizontal axes than was true in the past (and even in the past it was pretty good).</p>
+
+<p><strong>Skeleton</strong> describes itself as "A dead simple, responsive boilerplate" – it's a mobile-first, minimalist approach. Don't come here for elaborate color schemes or shadows, but if you just want a jump-start to responsive rows and columns and clean defaults for headers, this will give you a streamlined set of classes to learn.
+</p>
 </dd>
 
 <dt><a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll step-by-step</a></dt>

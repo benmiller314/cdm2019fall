@@ -15,7 +15,6 @@ layout: bottomnav
 1. Midterm reflection (5-10 min)
 2. Web-design unit overview and assignment (10 min)
 3. Markup: separating content from display (10-15 min)
-4. "Web Design in 4 Minutes"... in 15 minutes
 5. Homework preview
 
 ## Midterm reflection (5-10 min)
@@ -43,6 +42,8 @@ In the letter I wrote for the course syllabus, I asked you to think about "the a
 **Take 10 minutes.** I won't collect these directly today, but you will use them to develop your pitch for a collaborative project, and as a snapshot of your progress to look back on (and possibly quote) in a final reflection for the end of the course.
 
 EXT: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
+
+EXT 2: What do you expect the affordances of a website will be? 
 
 ## 2. Web-design unit overview and assignment (10 min)
 

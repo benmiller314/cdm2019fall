@@ -23,6 +23,12 @@ Ask if you can't come to a resolution!
 
 EXT: If your group finishes early, (a) let me know you're done, and (b) check out these [example web-design sketches](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/). What design patterns do you notice? What drawing conventions?
 
+EXT: Want to see some sites from past years? Here are a few (more to follow):
+* [https://pitt-cdm.github.io/website--eaj34/index.html](https://pitt-cdm.github.io/website--eaj34/index.html)
+* [https://pitt-cdm.github.io/website--jfrank1120/index.html](https://pitt-cdm.github.io/website--eaj34/index.html)
+* [https://pitt-cdm.github.io/website--mpalko/](https://pitt-cdm.github.io/website--mpalko/)
+
+
 ### Organizing files
 
 * True or False: filenames are not case sensitive, so it doesn't matter if something is uppercase or lowercase.

@@ -14,8 +14,22 @@ layout: bottomnav
 
 1. Midterm reflection (5-10 min)
 2. Web-design unit overview and assignment (10 min)
-3. Markup: separating content from display (10-15 min) <!-- NOTE FOR NEXT TIME: don't cut CSS in 4 minutes, and maybe even start with it? I ended up with 30 minutes left!! -->
+3. Markup: separating content from display (10-15 min)
 5. Homework preview
+
+<!-- NOTE FOR NEXT TIME: don't cut CSS in 4 minutes, and maybe even start with it? I ended up with 30 minutes left!!
+
+Okay, here's my current proposal for next time:
+1. midterm reflection (10 min)
+2. share / discuss reflections (10 min)
+3. CSS Zen Garden. (5 min) different ways visual representations can highlight / draw attention.
+4. Reveal: every one of these sites uses the exact same underlying text. How? By telling the computer what _parts_ a thing has, you can separate out how to _display_ those parts.
+5. Separate, but cross-related, languages have developed to handle the part-marking and the display: html and css. (other web languages, like php, javascript, ruby, and python, can dynamically generate or change the html and css; but html and css are the core of what gets shown on the screen.)
+6. pre-fab (not inspector-based) examples (maybe in a codepen?) of html + css + output. structure of an html tag (maybe start with <a>, because it has attributes?)
+7. div as a kind of layer-group: collect these things, treat them the same. container model.
+
+
+-->
 
 ## Midterm reflection (5-10 min)
 

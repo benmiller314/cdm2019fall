@@ -47,19 +47,31 @@ EXT: If your group finishes early, (a) let me know you're done, and (b) check ou
 
 ### CSS basics
 * Name three different places you could store CSS rules. <!-- external stylesheet, page-specific <style> in the <head>, inline style in the attributes of an html element -->
+* What do the curly brackets in CSS rules do?
+* What do the semicolons in CSS rules do?
 * How do you mark up comments in CSS?
-* What's one advantage of using `em` as a unit rather than `px`?
 * How can you apply a single CSS rule to multiple HTML elements?  
 * What happens if you have multiple CSS rules for the same selected HTML element?
 * Why is using inline styles generally a bad idea?
+* EXT: What's one advantage of using `em` as a unit rather than `px`?
 
 ## 1b. Let's discuss!
 
-If you're waiting for others to finish,
 
 ## 2. Homework preview and parachute prompts (5 min)
 
+The assignment for Tuesday includes another two chapters in the tutorial, and a proposal for your website project. In a moment, I'll lead you through a generative writing exercise designed to help you come up with an idea to propose.
 
+But if you're looking for more direction, I've added these two more guided suggestions to the assignment repo:
+
+1. _Showcase your classwork_. Make a landing page that links to a page containing your soundscape narrative, and another page containing your rhetorical collage. Find a way to make the media files directly accessible to site visitors (i.e. they shouldn't need to download them). As an extension, you might want to showcase work you've produced for other courses, in which case I encourage you to look for (and write about) a learning trajectory or insights that cross your courses.
+
+2. _Site redesign_. Choose an existing website that you think is kinda boring, or busy, or otherwise in need of a fresh start.<sup>a</sup> After thinking about why someone would be coming to the site, and what they might want to do once there, build a mock-up of a new design that better meets those needs and goals. NB: I say "mock-up" advisedly: many live sites on the open web can be fiendishly complicated. While it's a good idea to "View Page Source" to look at the underlying html, you may well want to create your own simplified version from scratch, with just the major block elements you'll use for layout and navigation, and write your stylesheet just for that.
+   - <sup>a</sup> Two sites I'm involved with that I know I'd like to redesign, but just haven't had time, are for the <a href="https://jitp.commons.gc.cuny.edu">Journal of Interactive Technology and Pedagogy</a> and for our very own <a href="https://benmiller314.github.io/cdm2019fall">Composing Digital Media</a>. And there's always the <a href="http://www.csszengarden.com/">CSS Zen Garden...</a>
+
+<div class="alert alert-info">
+If you're feeling stuck during the loop writing, you can turn to one of these options.
+</div>
 
 ## 3. Loop writing (10 min)
 
@@ -89,6 +101,7 @@ Consider: How will it look on a phone? On a laptop? What might you add to the la
 
 Not sure what that should look like? Here are [33 examples](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/) (but no one is asking you to be as elaborate as the most elaborate of these)
 
+* EXT: Will "inner" pages look the same as the landing page? Sketch out the possible differences. Consider the possibility that someone jumps directly to an inner page (e.g. from Google). What would they need to feel oriented?
 * EXT: Finished one drawing? Make another, using a different system of visually organizing your information.
 
 
@@ -96,19 +109,18 @@ Not sure what that should look like? Here are [33 examples](http://designbeep.co
 
 Options!
 
+* Start gathering materials toward your website, to check feasibility.
 * If you haven't yet done so, why not start the tutorial sections from the homework?
-* I won't have assigned time for *all* the sections of the tutorial; you can look ahead in the [schedule](/{{site.course.base_path}}schedule) to see what's expected, and what's beyond baseline
-* Start gathering materials toward your website, to check feasibility
+  - I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule](/{{site.course.base_path}}schedule) to see which parts I expect you to read and do, and what's beyond baseline.
 * Above all, **call me over for help as needed**.
 
-NB: I'm not sure if the lab computers don't have Atom, but they should at least have SublimeText, which is very similar.
+NB: I'm not sure if the lab computers will have Atom (I think so), but they should at least have SublimeText, which is very similar.
 
 EXT: If you're good on what a CSS class is, and how to add it to an HTML element, read up on [Bootstrap](https://getbootstrap.com/), a very widely used CSS framework. What that essentially means is that they've pre-created a bunch of CSS classes for you, so you can start using them to design your own layout from scratch. It's a little like Lego for web design, only free.
 
 
 ## Homework for Next Time
 
-* **View/Read** documentation on using GitHub Pages at [pages.github.com](https://pages.github.com/).
 * **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, posted to the [Issue Queue]({{site.github.repository_url}}/issues), including:
@@ -117,3 +129,4 @@ EXT: If you're good on what a CSS class is, and how to add it to an HTML element
     - a prospective assets chart (what you'll need, where you might get it);
     - at least one design sketch, showing possible layouts; and
     - a link to your repository.
+* When you've finished that, **View/Read** documentation on using GitHub Pages at [pages.github.com](https://pages.github.com/).

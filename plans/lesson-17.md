@@ -21,6 +21,8 @@ At your tables, work through the following questions, and be ready to discuss wi
 
 Ask if you can't come to a resolution!
 
+EXT: If your group finishes early, (a) let me know you're done, and (b) check out these [example web-design sketches](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/). What design patterns do you notice? What drawing conventions?
+
 ### Organizing files
 
 * True or False: filenames are not case sensitive, so it doesn't matter if something is uppercase or lowercase.

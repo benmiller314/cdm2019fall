@@ -184,7 +184,7 @@ EXT: developer tools demo, ideally using some site with a very clear box model.
 -->
 For next time:
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
 * **Show your work** by pushing your tutorial code to a repository
 * **Bring** headphones for sonic isolation during studio time
 
@@ -201,7 +201,7 @@ EXT: Self-paced tutorialing
 For next time:
 
 * **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
-* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the <a href="{{site.github.repository_url}}/issues">issue queue</a>.
 
@@ -212,7 +212,7 @@ Make sure everyone has successfully activated GitHub Pages before they leave -->
 
 For next time:
 
-* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
 * **Compose and push** a website preview: a beginning.
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Thursday 10/31</a> – Web Unit Criteria and Stretch Goals</h3>

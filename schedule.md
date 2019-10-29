@@ -232,7 +232,8 @@ For next time:
 
 For next time:
 
-* **Write** a proposal for what to do in weeks 12-13 (collaborative creative unit), which starts next week; post this to <a href="{{site.github.repository_url}}/issues">the issue queue</a>, as usual
+* **Read/View** collaborative unit examples/intros (see detailed hw in lesson plan)
+* **Write** one more blog post about what to do in weeks 12-13 (collaborative creative unit), which starts next week! Post this to <a href="{{site.github.repository_url}}/issues">the issue queue</a>, as usual
 * **Bring** headphones
 
 

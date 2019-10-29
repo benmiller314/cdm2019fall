@@ -2,7 +2,7 @@
 layout: bottomnav
 ---
 
-# Web Unit Studio
+# Web Unit Studio / Deployment
 
 **Work to have done**:
 
@@ -53,6 +53,8 @@ Do what you need to do to level up on HTML and CSS in the direction of your spec
 <li>change the settings for the repo to "use master branch /docs folder" as your source.</li>
 </ol>
 Then your site will build at https://<em>your-username</em>.github.io/<em>your-repo</em>. There are more options you can read about, but that's it in a nutshell!
+
+If you're worried about showing up in search results before your site is ready, you can always <a href="https://support.google.com/webmasters/answer/93710">add a noindex meta tag</a> to your site's <code><head></code>. Like this:<code><meta name="robots" content="noindex" /></code>.
 </div>
 
 <div class="alert alert-info">

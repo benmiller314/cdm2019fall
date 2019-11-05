@@ -33,7 +33,7 @@ Your homepage should probably be called something like <strong>index.html</stron
 ## Workflow Tweaks
 
 As you remember from the sound and image units, I encourage you to **always start by describing** the piece, before judging what's good about it, so the creator knows whether you're on the same page. (Which is itself important feedback: _is my message getting through_.)
-
+<div class="alert alert-white">
 <div class="alert alert-info">
 For this unit, in which display is a separate – and often challenging – concern, I'm going to ask you to use a <em>two-step description</em>.
 </div>
@@ -41,6 +41,8 @@ For this unit, in which display is a separate – and often challenging – co
 1. **First look at the HTML files, and say back what you see there.** What seem to be the major content areas? What's given top-level focus? (e.g. what kind of thing gets its own page, or what's at &lt;h1&gt; status within a page?) What's next in the hierarchy?
 
 2. Once you've done that, **turn to the browser and repeat the process for the display.** What's given visual weight? What falls "above the fold"? Where are you invited to go next?
+
+</div>
 
 From there, you can continue on to _evaluation_, using the shared criteria we developed on Thursday – and also the correspondence between the hierarchy you observed in the HTML and the hierarchy you observed in the rendered site.
 
@@ -125,7 +127,7 @@ Based on your viewing, would anyone like to propose changes to the baseline crit
   - Animated or text-based game (perhaps using [Twine](http://twinery.org/))
   - Visual programming (probably in [Scratch](https://scratch.mit.edu/about))
   - UI/UX design in Adobe Suite (talk to [Margaret](mailto:mpalko@pitt.edu) about this one!)
-  
+
 * Skim through any links above that seem intriguing, and if something strikes you, **[post a proposal]({{site.github.repository_url}}/issues/13) to try to recruit partners**. As before, there is no minimum length for these posts.
 
 * Next class will be a web designers' studio: **optionally bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your website portfolio.

@@ -45,6 +45,8 @@ As you remember from the sound and image units, I encourage you to **always star
    </ul>
 </div>
 
+</div>
+
 From there, you can continue on to _evaluation_, using the shared criteria we developed on Thursday – and also the correspondence between the hierarchy you observed in the HTML and the hierarchy you observed in the rendered site.
 
 <!-- NB: This is still a form of description: it's not about "good" or "bad" in the abstract but about where it meets or misses the shared or stated goals. -->

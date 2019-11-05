@@ -22,14 +22,14 @@ layout: bottomnav
 
 Designer Jeremy Thomas created a nifty little walkthrough for how to think about building up a stylesheet, which you can find at [jgthms.com/web-design-in-4-minutes/](http://jgthms.com/web-design-in-4-minutes/). Now that you're more familiar with CSS rules and selectors, I want to talk through it together, _as a way of modeling how you might spend your work-time in studio today_ and over the next week or so.
 
-<h3>2. Ben's take-away</h3>
+### 2. Ben's take-away
 <details>
 <summary>a suggested composing strategy</summary>
 <ol>
    <li>List out your content sections</li>
    <li>Decide what's nested, what's at the same level</li>
-   <li>Draw boxes, and label them</li>
-   <li>Use the boxes to write HTML containers</li>
+   <li>Draw boxes, and label them<!-- SKIPPABLE --></li>
+   <li>Use the boxes<!-- list/nesting --> to write HTML containers<!-- ELEMENTS: only div if you have to --></li>
    <li>Use the labels to give them CSS classes</li>
    <li>Only then start to style the classes</li>
    <li>Use some standard minimum styling
@@ -41,6 +41,20 @@ Designer Jeremy Thomas created a nifty little walkthrough for how to think about
    </li>
 </ol>
 </details>
+
+<!-- FOR NEXT TIME
+## 2. Other notes
+
+* Your homepage should probably be called something like index.html (or index.md) for it to load automatically at the root directory of your website URL. If you're getting a 404 error, that might be the reason.
+
+* Take on the lowest line-count challenge. Ask yourself:
+  - does that div need to be there?
+  - could those CSS rules be combined?
+
+* Strive for semanticity. Ask yourself:
+  - can you tell what's going on just by reading the HTML file?
+  - does the HTML hard-code any display (e.g. `<center>`, `<b>`) that should be in the CSS?  
+-->
 
 ## 3. Go forth!
 

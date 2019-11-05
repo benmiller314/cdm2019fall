@@ -25,10 +25,9 @@ Two related goals:
   - does the HTML hard-code any display (e.g. `<center>`, `<b>`) that should be in the CSS?  
 -->
 
-## #ThingsIShouldHaveToldYou
 <div class="alert alert-warning">
-<h3>IMPORTANT NOTE:</h3>
-Your homepage should probably be called something like <strong>index.html</strong> (or index.md) for it to load automatically at the root directory of your website URL. If you're getting a 404 error, that might be the reason.
+<h2>#ThingsIShouldHaveToldYou</h2>
+Your homepage should probably be called something like <strong>index.html</strong> (or index.md) for it to load automatically at the root directory of your website URL. If you're getting a 404 error when you open the root URL of your project, that might be the reason.
 </div>
 
 ## Workflow Tweaks

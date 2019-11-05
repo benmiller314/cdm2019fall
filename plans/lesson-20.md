@@ -118,22 +118,19 @@ Based on your viewing, would anyone like to propose changes to the baseline crit
 
 
 # Homework for Next Time
-
-* **Read/View** collaborative unit examples/intros:
-
-* Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). At this point, we have a number of great ideas for group projects:
-  - Art of Foley (adding sounds to video)
-  - Multi-image animation in GIMP or Photoshop
-  - Animated or text-based game
-  - Visual programming in Processing or [Scratch](https://scratch.mit.edu/about)
-  - UI/UX design in Adobe Suite
-
+* Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). At this point, we have a number of [great ideas](https://github.com/benmiller314/cdm2019fall/issues/6) for [group projects](https://github.com/benmiller314/cdm2019fall/issues/10):
+  - Collaborative soundscape narrative / podcast / radio show, perhaps traversing existing soundscape narratives
+  - Art of Foley (adding sounds to video - maybe one of [these](https://www.google.com/search?q=short+videos+no+sound&tbm=vid&sxsrf=ACYBGNTjlnYAR93lkuo0q2cwvLs06VgiNw:1572973957460&source=lnt&tbs=dur:s&sa=X&ved=0ahUKEwiyn-bPyNPlAhUOyFkKHZIRDisQpwUIIQ&biw=1440&bih=798&dpr=1))
+  - "Reverse-Foley" (visually animating, or filming, a soundscape)
+  - Digital stop-motion / flip-book animation ([several tools](https://www.freelancer.com/articles/graphic-design/best-free-animation-software) available)
+  - Animated or text-based game (perhaps using [Twine](http://twinery.org/))
+  - Visual programming (probably in [Scratch](https://scratch.mit.edu/about))
+  - UI/UX design in Adobe Suite (talk to [Margaret](mailto:mpalko@pitt.edu) about this one!)
+* Skim through any links above that seem intriguing, and if something strikes you, **[post a proposal]({{site.github.repository_url}}/issues/13) to try to recruit partners**. As before, there is no minimum length for these posts.
 
 * Next class will be a web designers' studio: **optionally bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your website portfolio.
   - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [prompt](https://github.com/benmiller314/webste-portfolio-2019fall#project-3-website-portfolio) for further details.
-* Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
-  - What further possibilities of web design might you want to explore in connection with other people, and other media?
-  - You can post this to the [Issue Queue]({{site.github.repository_url}}/issues/10); like last time, there is no minimum length requirement.
+
 
 
 ## EXT:

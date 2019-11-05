@@ -33,17 +33,16 @@ Your homepage should probably be called something like <strong>index.html</stron
 ## Workflow Tweaks
 
 As you remember from the sound and image units, I encourage you to **always start by describing** the piece, before judging what's good about it, so the creator knows whether you're on the same page. (Which is itself important feedback: _is my message getting through_.)
+
 <div class="alert alert-white">
    <div class="alert alert-info">
-   For this unit, in which display is a separate – and often challenging – concern, I'm going to ask you to use a <em>two-step description</em>.
+      For this unit, in which display is a separate – and often challenging – concern, I'm going to ask you to use a <em>two-step description</em>.
    </div>
 
    <ol>
       <li><strong>First look at the HTML files, and say back what you see there.</strong> What seem to be the major content areas? What's given top-level focus? (e.g. what kind of thing gets its own page, or what's at &lt;h1&gt; status within a page?) What's next in the hierarchy?</li>
       <li>Once you've done that, <strong>turn to the browser and repeat the process for the display.</strong> What's given visual weight? What falls "above the fold"? Where are you invited to go next?</li>
    </ol>
-</div>
-
 </div>
 
 From there, you can continue on to _evaluation_, using the shared criteria we developed on Thursday – and also the correspondence between the hierarchy you observed in the HTML and the hierarchy you observed in the rendered site.

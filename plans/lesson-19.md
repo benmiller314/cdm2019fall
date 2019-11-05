@@ -16,7 +16,7 @@ layout: bottomnav
 5. EXT: Studio and microconferences
 
 
-## 1. Reflective writing (5 min) 
+## 1. Reflective writing (5 min)
 <div class="alert alert-success">
 In your own space – you won't have to share this unless you want to – do a little writing about your website in progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
@@ -45,7 +45,8 @@ We'll refine as a group, and repeat, and then come back and revise after Tuesday
 Does anyone want to review GH Desktop for pushing large folders or other multi-file commits? Maybe a small group of us can do it together.
 
 ## Homework for next time:
-* **Work** to bring in a full draft: a solid attempt at a complete visual argument, ideally meeting baseline criteria. Rough edges are still welcome.
+<!-- FOR NEXT TIME: Add section in tutorial on [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/) -->
+* **Work** to bring in a full draft: a solid attempt at a complete website, ideally meeting baseline criteria. Rough edges are still welcome.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
   - NB: I'm only suggesting all-caps for special files readers might want to find quickly. It kind of loses the effect if everything is in caps. (Better to be all lowercase, if you have to choose.)

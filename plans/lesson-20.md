@@ -38,11 +38,10 @@ As you remember from the sound and image units, I encourage you to **always star
    For this unit, in which display is a separate – and often challenging – concern, I'm going to ask you to use a <em>two-step description</em>.
    </div>
 
-   <ul>
+   <ol>
       <li><strong>First look at the HTML files, and say back what you see there.</strong> What seem to be the major content areas? What's given top-level focus? (e.g. what kind of thing gets its own page, or what's at &lt;h1&gt; status within a page?) What's next in the hierarchy?</li>
-
       <li>Once you've done that, <strong>turn to the browser and repeat the process for the display.</strong> What's given visual weight? What falls "above the fold"? Where are you invited to go next?</li>
-   </ul>
+   </ol>
 </div>
 
 </div>

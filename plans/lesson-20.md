@@ -65,7 +65,6 @@ For a minimum grade of B, all projects for this unit must:
   <li>Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention</li>
   <li>Include at least three navigable html locations</li>
   <li>Have a clear mode of navigation among the locations (no dead ends)</li>
-  <li>Incorporate juxtaposition</li>
   <li>Include at least one css stylesheet</li>
   <li>Include at least one legally useable image, with alt text</li>
   <li>Successfully display in a local web browser</li>

@@ -109,6 +109,9 @@ Go four seats clockwise around the room, hopefully arriving somewhere you haven'
 </div>
 
 I'll keep track of time.
+<!-- first loop starts at 2:45 -->
+<!-- second loop starts at 2:57 -->
+<!-- third loop starts at 3:09 -->
 
 On subsequent loops, note that **after** viewing the project first, you may also want to read and/or refer to the previous index cards.
 

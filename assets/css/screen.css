@@ -145,3 +145,16 @@ details[open] {
 	justify-content: space-between;
 	align-items: flex-start;
 }
+
+/* Make <detail> accordion-style elements prettier */
+details summary {
+    width: 100%;
+    background-color: #a7d6ff;
+    border: 1px solid #75bfff;
+    margin: 5px 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    margin-bottom: 2em;
+}

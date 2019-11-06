@@ -192,6 +192,11 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
 </dd>
 
+<dt><a href="https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725">CSS Grid Layout</a> tutorial on Medium</dt>
+<dd><p>This is a great little introduction to the latest CSS approach to layout – <code>display: grid</code> – which is new enough that it's not in the Interneting is Hard tutorial, but old enough that it's now has almost universal browser support. (As with many things, older versions of Internet Explorer may not work with grid displays. But does anyone still use old versions of IE?) What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
+<p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, as she argues, far easier to do with Grid than with Flexbox (let alone Float).</p>
+</dd>
+
 <dt><a href="http://htmlreference.io/">htmlreference.io</a></dt>
 <dt><a href="http://cssreference.io/">cssreference.io</a></dt>
 <dd>There are a *lot* of html elements and CSS attributes that you'll find in your travels through the web. As with book literacy, you'll pick up the vocabulary mostly by encountering them in the world, on websites, not by starting with a dictionary. But when you do find them, you'll want a good dictionary where you can look them up and learn more about how they're supposed to work. These are pretty well organized, and (unlike some of the "official" documentation) give usually you visual examples of what the elements and rules mean and do. And when you do want that official documentation, you can find it by clicking on the "MDN" link at the top right of any definition page.</dd>

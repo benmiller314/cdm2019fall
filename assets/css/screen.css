@@ -158,3 +158,22 @@ details summary {
 details[open] {
     margin-bottom: 2em;
 }
+
+
+/* Add more visual separation between consecutive
+   dictionary list items (e.g. on resources page) */
+dt:nth-child(1) {
+    border-top: 3px solid #008000a8;
+    padding-top: 0.5em;
+}
+
+dd + dt {
+    border-top: 3px solid #008000a8;
+    margin-top: 3em;
+    padding-top: 0.5em;
+}
+
+
+dd + dt:nth-of-type(even) {
+    border-top: 3px solid #05015ea8;
+}

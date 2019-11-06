@@ -29,7 +29,6 @@ Table of contents:
 
 <dt><a href="http://writingcenter.pitt.edu/">Pitt Writing Center</a></dt>
 <dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for developing ideas, getting feedback from an outside reader, and getting organized for revision and reflection. It's a good idea to <a href="http://writingcenter.pitt.edu/undergraduate-services">plan for your visit</a> and to make an appointment before you go.</dd>
-</dl>
 
 <dt><a href="http://www.studentaffairs.pitt.edu/drs/">Disability Resources</a></dt>
 <dd>If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890 / 412-624-3346 (Fax), as early as possible in the term. Disability Resources and Services will verify your disability and determine reasonable accommodations for this course.</dd>
@@ -37,7 +36,7 @@ Table of contents:
 <dt><a href="http://www.studentaffairs.pitt.edu/cc/">Counseling Services</a></dt>
 <dd>Pitt also offers free counseling for students who are experiencing personal or emotional difficulties. The Counseling Center, located on the 2nd Floor Nordenberg Hall, offers Psychological Services and Sexual Assault Services (412-648-7930) (8:30 am-5:00 pm, Monday-Friday) or (412-648-7856) (after 5 pm, Monday-Friday or on weekends).</dd>  
 
-
+</dl>
 
 
 ## Help with Git and GitHub

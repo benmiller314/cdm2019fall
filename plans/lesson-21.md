@@ -55,7 +55,7 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 
 <p>If you're drowning in "div soup," it may help you to know that HTML5 includes a number of elements that function in basically the same way, but are a lot easier to read: things like <code>&lt;header&gt;</code>, <code>&lt;section&gt;</code>, and <code>&lt;nav&gt;</code>.</p>
 
-<p>Read all about <a href="https://internetingishard.com/html-and-css/semantic-html/"semantic html in the Interneting is Hard tutorial</a>!</p>
+<p>Read all about <a href="https://internetingishard.com/html-and-css/semantic-html/">semantic html in the Interneting is Hard tutorial</a>!</p>
 </details>
 
 <details>
@@ -65,7 +65,7 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 
 <p>What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
 
-<p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f"using CSS Grid to create responsive layout</a> – which is, she argues, even easier to do with Grid than with Flexbox (let alone Float).</p>
+<p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, she argues, even easier to do with Grid than with Flexbox (let alone Float).</p>
 
 </details>
 
@@ -83,6 +83,12 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 A title can provide a context, a clue, a genre, a commentary; it can add an extra layer to viewer expectations. In previous units, you were titling your entire project; for a website, every page has its own &lt;title&gt; element in the &lt;head&gt;. What text do you want to show in a browser tab?
 
 </details>
+
+<details>
+<summary>Don't forget to update your README.</summary>
+It should have a brief description of the project, and may I also suggest an active link to your live website, if you have one?
+</details>
+
 
 
 ## Okay, now go to!

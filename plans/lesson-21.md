@@ -72,7 +72,7 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 <details>
 <summary>Articulate permissions.</summary>
 
-<p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small under the image file itself: along a border, say, in a 10-point font. If you have a lot of images, and can't fit the credits on your image even with a small font, you can instead link to a file in your repository. Link shorteners, like ow.ly and bit.ly, will help here.</p>
+<p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small under the image itself. (There's a semantic html way of doing this with &lt;figure&gt; and &lt;figcaption&gt;.) Alternately, you can have a rights page somewhere, or use the site footer – or link to an external CREDITS file in your repo.</p>
 
 <p><em>NB: If an image is under copyright, you can still use it if you can make a good case that it's a Fair Use.</em>  See _Writer/Designer_ page 156 to review the Four Factors you need to consider.</p>
 </details>

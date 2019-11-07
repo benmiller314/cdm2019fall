@@ -61,9 +61,9 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 <details>
 <summary>Stuck on layout? Try CSS grid.</summary>
 
-<p>My Google News feed brought me a great article yesterday on Medium introducing the reader to (a 7-minute read, the header helpfully informs me) on the latest CSS approach to layout – display: grid – which is new enough that it's not in the Interneting is Hard tutorial, but old enough that it's now has almost universal browser support.</p>
+<p>My Google News feed brought me a great article yesterday on Medium <a href="https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725">introducing the reader to CSS Grid</a>. The latest CSS approach to layout, it's new enough that it's not in the "Interneting is Hard" tutorial, but old enough that it's now has almost universal browser support.</p>
 
-<p>What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
+<p>What I like about this particular tutorial – just a 7-minute read, the header helpfully informs me – is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
 
 <p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, she argues, even easier to do with Grid than with Flexbox (let alone Float).</p>
 

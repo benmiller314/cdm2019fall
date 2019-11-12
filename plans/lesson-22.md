@@ -69,9 +69,10 @@ First, I'd like you to think about goal two, above. Think about the following ro
 
 <div class="alert alert-success">
 Take some notes:
-* Where do you see your strengths, within these categories?
-* Where are you on the cusp of leveling up?
-* Where would you like more help from a teammate?
+<ul><li>Where do you see your strengths, within these categories?</li>
+<li>Where are you on the cusp of leveling up?</li>
+<li>Where would you like more help from a teammate?</li>
+</ul>
 
 EXT: Do you have a specific project idea you'd like to explore? Jot down some notes now.
 </div>
@@ -88,6 +89,8 @@ You don't have to have every role above represented, but it would probably be go
 Download the file ["group-proposal.md"](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/uploads/group-proposal.md): from that link, you can right-click the "Raw" button and Save Link As.
 
 Then, working as a group, follow the instructions in the file.
+
+You may also want to look at [this excerpt from _Writer/Designer_](https://pitt.box.com/s/96l347yyrx2e69lkx635bl0jac4beaye), on ways to facilitate group collaboration.
 
 <!--
 ## 2. Twine: Interactive Narrative

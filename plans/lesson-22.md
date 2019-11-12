@@ -92,8 +92,6 @@ Then, working as a group, follow the instructions in the file.
 
 You may also want to look at [this excerpt from _Writer/Designer_](https://pitt.box.com/s/96l347yyrx2e69lkx635bl0jac4beaye), on ways to facilitate group collaboration.
 
-<!--
-## 2. Twine: Interactive Narrative
 
 ### What is Twine? What kinds of things can we make with it? (15 min)
 
@@ -104,7 +102,6 @@ Let's look at some examples!
 1. [The Tiniest Room](https://erik108.itch.io/the-tiniest-room)
 2. [The Griffin and the Minor Canon](https://cmg.itch.io/the-griffin-and-the-minor-canon)
 5. [Conquering Cathy: A trial of fortitude & vitality at the University of Pittsburgh](http://philome.la/mtyrhetoric/conquering-cathy/play)
--->
 
 
 # Homework for next time

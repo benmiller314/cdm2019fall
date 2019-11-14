@@ -281,7 +281,9 @@ For next time:
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Tuesday 12/3</a> – Looking Backward to Look Forward (plus Studio time)</h3>
-<!-- Metaphors for learning?
+<!--
+TRANSFER OWNERSHIP OF PROJECT REPOS
+Metaphors for learning?
 Review course goals
 Go over final portfolio requirements
 Make plans for final portfolio, introduction

@@ -287,6 +287,7 @@ Metaphors for learning?
 Review course goals
 Go over final portfolio requirements
 Make plans for final portfolio, introduction
+MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS 
 EXT: studio -->
 
 For next time:
@@ -298,7 +299,7 @@ For next time:
 <h3><a href="/{{site.course.base_path}}plans/lesson-27">Lesson 27, Thursday 12/5</a> – Parting Gifts; in-class writing and revising time</h3>
 <!--
  OMETs (teacher evaluations)
-MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS -->
+-->
 
 *Last day of class!*
 

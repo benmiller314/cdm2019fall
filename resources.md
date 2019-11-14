@@ -17,6 +17,7 @@ Table of contents:
    - [Audio](#audio)
    - [Visual](#visual)
    - [Web Design](#web-design)
+   - [Interactive Narrative](#twine--interactive-narrative)
 * [File Compression](#file-compression)
 * [Other Resource Roundups](#other-resource-roundups)
 

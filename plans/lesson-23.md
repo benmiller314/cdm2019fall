@@ -51,7 +51,7 @@ Here are some links to student projects from past semesters:
 * Twines (produced in about three weeks)
     - [Summer Nights](https://github.com/pitt-cdm/twine--summer-nights-1) (four-player Jailbreak). To play, clone and open the html file.
     - [A Midsummer's Night](https://pitt-cdm.github.io/twine--summer-night-part-2/) (a spookier take; includes sound). Playable online!
-    - [Island Survival](https://pitt-cdm.github.io/twine--shore-leave/). Playable online!
+    - [Island Survival](https://github.com/dashn98/twine--shore-leave). To play, clone and open the html file.
     - [Finding Ben](https://github.com/pitt-cdm/twine--finding-boo). To play, clone and open the html file.
     - [Survival: Dog or Cat?](https://github.com/pitt-cdm/twine--cats-dogs). To play, clone and open the html file.
     - [Theme Park After Dark](https://github.com/pitt-cdm/twine--theme-park). To play, clone and open the html file.

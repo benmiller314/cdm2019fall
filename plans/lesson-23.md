@@ -49,12 +49,12 @@ Groups working on Twine, if you haven't yet seen it, please do check out the Twi
 Here are some links to student projects from past semesters:
 
 * Twines (produced in about three weeks)
-    - [Summer Nights](https://github.com/pitt-cdm/twine--summer-nights-1) (four-player Jailbreak). I recommend cloning.
+    - [Summer Nights](https://github.com/pitt-cdm/twine--summer-nights-1) (four-player Jailbreak). To play, clone and open the html file.
     - [A Midsummer's Night](https://pitt-cdm.github.io/twine--summer-night-part-2/) (a spookier take; includes sound). Playable online!
     - [Island Survival](https://pitt-cdm.github.io/twine--shore-leave/). Playable online!
-    - [Finding Ben](https://github.com/pitt-cdm/twine--finding-boo). I recommend cloning.
-    - [Survival: Dog or Cat?](https://github.com/pitt-cdm/twine--cats-dogs). I recommend cloning.
-    - [Theme Park After Dark](https://github.com/pitt-cdm/twine--theme-park). I recommend cloning.
+    - [Finding Ben](https://github.com/pitt-cdm/twine--finding-boo). To play, clone and open the html file.
+    - [Survival: Dog or Cat?](https://github.com/pitt-cdm/twine--cats-dogs). To play, clone and open the html file.
+    - [Theme Park After Dark](https://github.com/pitt-cdm/twine--theme-park). To play, clone and open the html file.
 <!-- * A Twine about collaborative Twine workflow -->
 * Some marketing campaigns
     - Boneless Wings are Not Nuggets: [twitter](https://twitter.com/WingsNotNugs), [facebook](https://facebook.com/WingsNotNugs/), [website](https://elambiotte.github.io/Boneless-Wings-Campaign/)

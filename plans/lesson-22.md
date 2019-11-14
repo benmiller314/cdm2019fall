@@ -66,6 +66,7 @@ First, I'd like you to think about goal two, above. Think about the following ro
 4. experience designer (plan interactivity, spatiality)
 2. programmer (get into the weeds of code)
 5. researcher (find materials and assets, quickly grasp tutorials)
+<!-- 6. copy writer (produce public-ready prose) -->
 
 <div class="alert alert-success">
 Take some notes:
@@ -93,7 +94,7 @@ Then, working as a group, follow the instructions in the file.
 You may also want to look at [this excerpt from _Writer/Designer_](https://pitt.box.com/s/96l347yyrx2e69lkx635bl0jac4beaye), on ways to facilitate group collaboration.
 
 
-### What is Twine? What kinds of things can we make with it? (15 min)
+### Lots of people seem interested in Twine! What kinds of things can we make with it? (15 min)
 
 Choose-your-own-adventure fiction is one way to think about it. But it's not always adventure, not always fiction... and not even always choice.
 

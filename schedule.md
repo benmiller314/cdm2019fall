@@ -287,7 +287,7 @@ Metaphors for learning?
 Review course goals
 Go over final portfolio requirements
 Make plans for final portfolio, introduction
-MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS 
+MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS
 EXT: studio -->
 
 For next time:
@@ -312,5 +312,5 @@ For next time:
 
 &nbsp;
 <div class="alert alert-success">
-<em>Final portfolios will be due by the end of the final exam slot, which is still tbd.</em>
+Final portfolios will be due by the end of the final exam slot, which we now know is <strong>Tuesday, December 10, at 1:50pm</strong>.
 </div>

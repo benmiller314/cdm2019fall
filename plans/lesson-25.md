@@ -24,7 +24,7 @@ The final portfolio will consist of a single post on the [issue queue]({{site.gi
 3.	**links to your repositories** (on either GitHub or Box) for each of those pieces; and
 4.	**a thumbnail of at least one specific prior draft, hyperlinked to that file in the revision history**, allowing you to talk about your revision skills.
 
-In addition to the portfolio, or as preparation for it, I encourage you to retake the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) from the start of the semester.
+In addition to the portfolio, or as preparation for it, I encourage you to retake the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) from the start of the semester. Among other things, it'll give you a space to officially tell me whether and how I can use your work as an example in future semesters.
 
 
 What questions do you have about all that?
@@ -33,7 +33,7 @@ What questions do you have about all that?
 
 ## 2. Set goals for today (3-5 min)
 
-Leaving time for the end of class to send me an exit note, what's your goal to have finished by, say, 3:30?
+Leaving time for the end of class to share a teaser of your project with the full group, what's your goal to have finished by, say, 3:30?
 
 What will each of you be working on first?
 

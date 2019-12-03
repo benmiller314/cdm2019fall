@@ -45,13 +45,13 @@ So I'm asking you to **"detach" your repositories from the fork tree** before th
 <div class="alert alert-success">
 <ol>
    <li>Open each project repo you forked from an assignment and copy its URL.</li>
-   <li>In the GitHub taskbar, at the top right, click the <strong>+</strong> menu and choose the "Import repository" option.
+   <li>In the GitHub taskbar, at the top right, click the <strong>+</strong> menu and choose the "Import repository" option. <br />
 
    <img src="../assets/img/screenshot--import-repository.png" alt="plus menu, between alert and profile menus, with import repository as the second option">
    </li>
    <li>Paste in the URL from step 1, give the project a name, and begin import. It'll take at least a few minutes.</li>
    <li>When you're notified that the import is successful, open it up to confirm that you still have your full project history.</li>
-   <li>Finally, delete the forked repository you started with in step 1, confident that you're not losing any of your work.</li>
+   <li>Finally, delete the forked repository you started with in step 1, confident that you're not losing any of your work. To delete, go to the Settings tab, and head all the way to the "Danger Zone" at the very bottom.</li>
 </ol>
 </div>
 

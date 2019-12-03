@@ -4,7 +4,7 @@ layout: bottomnav
 
 # Introduction to Finality
 
-**Work to have done**: Submit final-for-now website, with source files, and [reflection](https://github.com/pitt-cdm/miller2019spring/issues/13)
+**Work to have done**: Submit final-for-now group project, with source files
 
 **Plan for the Day**:
 1. Reorient; reflect. (5-10 min)<!-- metaphors for learning -->

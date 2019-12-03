@@ -65,15 +65,19 @@ The [final reflection prompt](https://github.com/benmiller314/cdm2019fall/blob/g
 
 In the interest of helping you connect that challenge to my own goals for the course, I'm re-copying here the major goals for each unit:
 
+<table class="table table-striped">
+<tbody>
+<tr><td>1. to learn how to capture sound and edit it using digital tools, and</td></tr>
+<tr><td>2. to explore the affordances of sound as a medium, with particular attention to its ability to communicate immersive environment and narrative pacing and change;</td></tr>
+<tr><td>3. to learn how to ethically obtain images and edit them using digital tools, and</td></tr>
+<tr><td>4. to explore the affordances of still images as a medium, and especially their ability to direct attention and help make ideas memorable;</td></tr>
+<tr><td>5. to learn how to manage a composite project made up of multiple interlinking files, and</td></tr>
+<tr><td>6. to explore the affordances of the web design stack as a medium, and especially its ability to flexibly render content for multiple audiences or reading priorities;</td></tr>
+<tr><td>7. to practice managing a complex project involving multiple team members, and</td></tr>
+<tr><td>8. to assess your own skills as a digital media composer, to find ways you in particular can best contribute to a joint project</td></tr>
+</tbody>
+</table>
 
-1. to learn how to capture sound and edit it using digital tools, and
-2. to explore the affordances of sound as a medium, with particular attention to its ability to communicate immersive environment and narrative pacing and change;
-3. to learn how to ethically obtain images and edit them using digital tools, and
-4. to explore the affordances of still images as a medium, and especially their ability to direct attention and help make ideas memorable;
-5. to learn how to manage a composite project made up of multiple interlinking files, and
-6. to explore the affordances of the web design stack as a medium, and especially its ability to flexibly render content for multiple audiences or reading priorities;
-7. to practice managing a complex project involving multiple team members, and
-8. to assess your own skills as a digital media composer, to find ways you in particular can best contribute to a joint project
 
 <div class="alert alert-info">
 The main goal of the final portfolio is to help you integrate and consolidate the skills you've practiced across the semester.

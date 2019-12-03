@@ -8,13 +8,13 @@ layout: bottomnav
 
 **Plan for the Day**:
 1. Reorient; reflect. (5-10 min)<!-- metaphors for learning -->
-3. Transferring ownership of project repos
-2. Review: course goals and final portfolios (10-15 min)
+2. Transferring ownership of large file storage
+3. Review: course goals and final portfolios (10-15 min)
 4. Studio: make plans for final portfolio, introduction
 5. EXT: Start homework
 
 
-## 1. Breathe; reflect. (5-10 min)
+## 1. Reorient; reflect. (5-10 min)
 
 Congratulations on reaching the final week of classes! Over the last fourteen weeks, you've composed with sound, with image, with code, and with each other.
 

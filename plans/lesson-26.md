@@ -56,3 +56,13 @@ So I'm asking you to **"detach" your repositories from the fork tree** before th
 </div>
 
 ## 3. Review: course goals and final portfolios (10-15 min)
+
+## 4. Studio: make plans for final portfolio, introduction
+
+## 5. EXT: Start homework
+
+# HW for next time
+
+* **Read** Paul Ford's brief <a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">"Letter of Recommendation: Bug Fixes"</a> from <em>The New York Times Magazine</em> (June 11, 2019).
+* Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
+* **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. Write this down somewhere; we'll briefly share these next time.

@@ -57,9 +57,37 @@ So I'm asking you to **"detach" your repositories from the fork tree** before th
 
 ## 3. Review: course goals and final portfolios (10-15 min)
 
+The [final reflection prompt](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true), which we discussed last time, asks you to do two related things:
+
+1. **articulate your learning in the class**, focused more on transferable skills than individual tools; and
+
+2. **introduce** the specific projects in your portfolio, in the process illustrating or providing evidence for the first part’s claims.
+
+In the interest of helping you connect that challenge to my own goals for the course, I'm re-copying here the major goals for each unit:
+
+
+1. to learn how to capture sound and edit it using digital tools, and
+2. to explore the affordances of sound as a medium, with particular attention to its ability to communicate immersive environment and narrative pacing and change;
+3. to learn how to ethically obtain images and edit them using digital tools, and
+4. to explore the affordances of still images as a medium, and especially their ability to direct attention and help make ideas memorable;
+5. to learn how to manage a composite project made up of multiple interlinking files, and
+6. to explore the affordances of the web design stack as a medium, and especially its ability to flexibly render content for multiple audiences or reading priorities;
+7. to practice managing a complex project involving multiple team members, and
+8. to assess your own skills as a digital media composer, to find ways you in particular can best contribute to a joint project
+
+<div class="alert alert-info">
+The main goal of the final portfolio is to help you integrate and consolidate the skills you've practiced across the semester.
+</div>
+
+I'm hoping that putting those goals in juxtaposition will help you find some throughlines and some axes of difference you can draw on as you reflect on the course as a whole.
+
 ## 4. Studio: make plans for final portfolio, introduction
 
-## 5. EXT: Start homework
+Go to! If you have revisions of earlier projects to work on, now's a good time.
+
+Or if you want to start the reflection, get started!
+
+And if you're not sure what else to work on, you can get started on the homework below.
 
 # HW for next time
 

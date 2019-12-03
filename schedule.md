@@ -293,7 +293,7 @@ EXT: studio -->
 For next time:
 
 * **Read** Paul Ford's "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019).
-* Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through the commit histories of your projects, your own change logs; skim through the lesson plans. What things have you done this semester?
+* Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
 * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll briefly share these next time.
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-27">Lesson 27, Thursday 12/5</a> – Parting Gifts; in-class writing and revising time</h3>

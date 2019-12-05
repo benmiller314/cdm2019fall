@@ -2,7 +2,8 @@
 layout: bottomnav
 ---
 
-# Something / That I Remember
+# Parting Gifts
+aka Something / That I Remember
 
 **Texts to have read**:
 
@@ -17,7 +18,7 @@ layout: bottomnav
 
 **Plan for the Day**:
 
-1. OMETs (EXT: tech comfort survey, take 2)
+1. OMETs (and tech comfort survey, take 2)
 2. Collaborative projects: introductions
 3. Collaborative projects: play time
 4. Gifts and Remembrances (depending on the clock)
@@ -34,15 +35,19 @@ Remember that these evaluations of teaching serve multiple purposes, and go to m
 </ul>
 </div>
 
-So the OMETs are pretty important! If you haven't yet filled out your survey, please do so now. You should have a link to the survey on the homepage of your CourseWeb account, or in your Pitt email.
+So the OMETs are pretty important!
+
+<div class="alert alert-white">
+If you haven't yet filled out your survey, please do so now. You should have a link to the survey on the homepage of your CourseWeb account, or in your Pitt email.
 
 EXT: I know many of you have already filled out the survey; as an alternative (or if you're waiting for others to finish), why not head over to the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) and compare your answers now to the ones from January?
+</div>
 
 EXT: If you've done both of those things to your satisfaction and you're waiting for your classmates to finish, you can use this time for solo work on your portfolio / revisions or your final reflection.
 
-<div class="alert alert-white">
+
 I'll leave the room for 10-15 minutes, to give you some privacy; I'll probably go around to the tables by the elevator. Let me know if you want me to come back earlier than that.
-</div>
+
 
 ## 2. Collaborative projects: introductions
 

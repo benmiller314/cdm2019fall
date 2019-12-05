@@ -40,7 +40,7 @@ So the OMETs are pretty important!
 <div class="alert alert-white">
 If you haven't yet filled out your survey, please do so now. You should have a link to the survey on the homepage of your CourseWeb account, or in your Pitt email.
 
-EXT: I know many of you have already filled out the survey; as an alternative (or if you're waiting for others to finish), why not head over to the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) and compare your answers now to the ones from January?
+EXT: I know many of you have already filled out the survey; as an alternative (or if you're waiting for others to finish), why not head over to the <a href="http://bit.ly/cdm-tech-survey">Tech Comfort Survey</a> and compare your answers now to the ones from January?
 </div>
 
 EXT: If you've done both of those things to your satisfaction and you're waiting for your classmates to finish, you can use this time for solo work on your portfolio / revisions or your final reflection.

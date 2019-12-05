@@ -30,7 +30,7 @@ As I've said before, one of my biggest goals is to help you feel more empowered 
 
 Take 5ish minutes to think on the page. I won't collect this, but I will suggest that you return to these when writing your end-of-semester reflection – over the next week! – and I will ask for some volunteers to share in a few minutes.
 
-EXT: What personal skillsets do you feel like you now possess, that you might offer to a team of digital media composers?
+EXT: What personal skillsets do you feel like you now possess, that you might offer to a team of digital media composers? Has this changed over the course of the project? The semester?
 
 Let's hear at least 2-3 of these before we move on; they might spark some ideas for others!
 

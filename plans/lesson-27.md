@@ -24,7 +24,7 @@ aka Something / That I Remember
 4. Gifts and Remembrances (depending on the clock)
 5. Endless departures
 
-## OMETs or reflection time
+## OMETs or studio time
 
 <div class="alert alert-info">
 Remember that these evaluations of teaching serve multiple purposes, and go to multiple audiences:

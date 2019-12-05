@@ -87,7 +87,9 @@ And other announcements.
 
 2. The reflection is the main thing, so if you do make revisions, please be sure to talk about them in the reflection.
 
-3. I'll hold extra office hours next week on _Monday_ 12-1pm (and again on Wednesday, though that's after our official portfolio deadline of Tuesday at 1:50pm). Email me if you have questions outside those hours, and I'll do my best to help.
+3. I'll hold extra office hours tomorrow, 12-1, as usual – and then next week on _Monday_ 12-1pm (and again on Wednesday, though that's after our official portfolio deadline of Tuesday at 1:50pm). Email me if you have questions outside those hours, and I'll do my best to help.
+
+4. Right after office hours tomorrow, come by the Digital Media Showcase in room 501! There will also be food and stuff from the Secret Pittsburgh course. See <a href="../uploads/showcase-flyer-2019fall.pdf">flyer</a> for details.
 
 
 ## [We end with poetry](https://merwinconservancy.org/2019/03/now-it-is-clear-by-w-s-merwin-2/).

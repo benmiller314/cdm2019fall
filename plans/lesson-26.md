@@ -50,7 +50,7 @@ So I'm asking you to **"detach" your repositories from the fork tree** before th
    <img src="../assets/img/screenshot--import-repository.png" alt="plus menu, between alert and profile menus, with import repository as the second option">
    </li>
    <li>Paste in the URL from step 1, give the project a name, and begin import. It'll take at least a few minutes.</li>
-   <li>When you're notified that the import is successful, open it up to confirm that you still have your full project history.</li>
+   <li>When you're notified that the import is successful, <!-- FOR NEXT TIME: CLONE AND LFS PULL!! You have to make sure the files come along for the ride! And if not... if not, have instructions for pushing a local branch to remote ready to go. In fact, you may want to just go that route to begin with. Instructions using [command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line) or [GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/adding-an-existing-project-to-github-using-github-desktop) --> open it up to confirm that you still have your full project history.</li>
    <li>Finally, delete the forked repository you started with in step 1, confident that you're not losing any of your work. To delete, go to the Settings tab, and head all the way to the "Danger Zone" at the very bottom.</li>
 </ol>
 </div>

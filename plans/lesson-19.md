@@ -2,7 +2,7 @@
 layout: bottomnav
 ---
 
-# Visual Unit Criteria and Stretch Goals
+# Web Unit Criteria and Stretch Goals
 
 **Work to have done**:
 

@@ -24,8 +24,9 @@ Okay, here's my current proposal for next time:
 2. share / discuss reflections (10 min)
 3. CSS Zen Garden. (5 min) different ways visual representations can highlight / draw attention.
 4. Reveal: every one of these sites uses the exact same underlying text. How? By telling the computer what _parts_ a thing has, you can separate out how to _display_ those parts.
+Consider making a PowerPoint for the next bit:
 5. Separate, but cross-related, languages have developed to handle the part-marking and the display: html and css. (other web languages, like php, javascript, ruby, and python, can dynamically generate or change the html and css; but html and css are the core of what gets shown on the screen.)
-6. pre-fab (not inspector-based) examples (maybe in a codepen?) of html + css + output. structure of an html tag (maybe start with <a>, because it has attributes?)
+6. pre-fab (not inspector-based) examples (maybe in a codepen?) of html + css + output. structure of an html tag (maybe start with <a>, because it has attributes? use atom to show syntax highlighting, which makes it easier to see the parts. also note the open-tag close-tag structure is essentially like parentheses, and show https://xkcd.com/859/.)
 7. div as a kind of layer-group: collect these things, treat them the same. container model.
 
 

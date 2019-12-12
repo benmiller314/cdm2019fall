@@ -74,14 +74,13 @@ As before, I'm going to ask you to write me a brief exit note in the last 5 minu
 
 <p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small under the image itself. (There's a semantic html way of doing this with &lt;figure&gt; and &lt;figcaption&gt;.) Alternately, you can have a rights page somewhere, or use the site footer – or link to an external CREDITS file in your repo.</p>
 
-<p><em>NB: If an image is under copyright, you can still use it if you can make a good case that it's a Fair Use.</em>  See _Writer/Designer_ page 156 to review the Four Factors you need to consider.</p>
+<p><em>NB: If an image is under copyright, you can still use it if you can make a good case that it's a Fair Use.</em>  See <em>Writer/Designer</em> page 156 to review the Four Factors you need to consider.</p>
 </details>
 
 <details>
 <summary>Consider titles.</summary>
 
-A title can provide a context, a clue, a genre, a commentary; it can add an extra layer to viewer expectations. In previous units, you were titling your entire project; for a website, every page has its own &lt;title&gt; element in the &lt;head&gt;. What text do you want to show in a browser tab?
-
+A title can provide a context, a clue, a genre, a commentary; it can add an extra layer to viewer expectations. In previous units, you were titling your entire project; for a website, every page has its own <code>&lt;title&gt;</code> element in the <code>&lt;head&gt;</code>, which will show up in the browser's tab. These titles <em>could</em> be the same for all your pages, but they could also vary. What text do you want on top of the window, to show users where they are? 
 </details>
 
 <details>
